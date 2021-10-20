@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Search Result on 老皮的煙草</title>
-    <link>https://yidti.github.io/search/</link>
+    <link>http://localhost:1313/search/</link>
     <description>Recent content in Search Result on 老皮的煙草</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://yidti.github.io/search/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="http://localhost:1313/search/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
