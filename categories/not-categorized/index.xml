@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sola&#39;s blog on 老皮的煙草</title>
-    <link>https://yidti.github.io/blog/</link>
-    <description>Recent content in Sola&#39;s blog on 老皮的煙草</description>
+    <title>Not Categorized on 老皮的煙草</title>
+    <link>https://yidti.github.io/categories/not-categorized/</link>
+    <description>Recent content in Not Categorized on 老皮的煙草</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://yidti.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>38歲年末</title>
-      <link>https://yidti.github.io/blog/quit/</link>
-      <pubDate>Wed, 20 Oct 2021 22:00:00 +0800</pubDate>
-      
-      <guid>https://yidti.github.io/blog/quit/</guid>
-      <description>Hello 測試</description>
-    </item>
-    
+    <lastBuildDate>Wed, 23 Sep 2020 21:50:47 +0800</lastBuildDate><atom:link href="https://yidti.github.io/categories/not-categorized/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>測試第一篇</title>
       <link>https://yidti.github.io/blog/testpost/</link>

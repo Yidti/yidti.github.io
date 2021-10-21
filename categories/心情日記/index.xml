@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>心情日記 on 老皮的煙草</title>
-    <link>http://localhost:1313/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%A8%98/</link>
+    <link>https://yidti.github.io/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%A8%98/</link>
     <description>Recent content in 心情日記 on 老皮的煙草</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 20 Oct 2021 22:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%A8%98/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Oct 2021 22:00:00 +0800</lastBuildDate><atom:link href="https://yidti.github.io/categories/%E5%BF%83%E6%83%85%E6%97%A5%E8%A8%98/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>38歲年末</title>
-      <link>http://localhost:1313/blog/quit/</link>
+      <link>https://yidti.github.io/blog/quit/</link>
       <pubDate>Wed, 20 Oct 2021 22:00:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/quit/</guid>
+      <guid>https://yidti.github.io/blog/quit/</guid>
       <description>Hello 測試</description>
     </item>
     
