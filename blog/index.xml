@@ -8,23 +8,32 @@
     <language>zh-tw</language>
     <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://yidti.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Hugo架設網站</title>
+      <link>https://yidti.github.io/blog/hugo/hugo-0/</link>
+      <pubDate>Sat, 23 Oct 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://yidti.github.io/blog/hugo/hugo-0/</guid>
+      <description>第一次接觸到Hugo是一年前從購買Hahow課程
+古老師上課很有條理，這門課非常平易近人
+像我這樣新手也可以很快吸收一些概念
+實作起來非常有成就感XDD
+Hahow課程 - Github 免費架站術！輕鬆打造個人品牌 https://hahow.in/courses/5de8fec16117240026540b9c/main
+Hugo官網 https://gohugo.</description>
+    </item>
+    
+    <item>
       <title>38歲年末</title>
       <link>https://yidti.github.io/blog/quit/</link>
       <pubDate>Wed, 20 Oct 2021 22:00:00 +0800</pubDate>
       
       <guid>https://yidti.github.io/blog/quit/</guid>
-      <description>Hello 測試</description>
-    </item>
-    
-    <item>
-      <title>測試第一篇</title>
-      <link>https://yidti.github.io/blog/testpost/</link>
-      <pubDate>Wed, 23 Sep 2020 21:50:47 +0800</pubDate>
-      
-      <guid>https://yidti.github.io/blog/testpost/</guid>
-      <description>Hello World
-我是Sola
-一級標題 二級標題 三級標題 四級標題 五級標題 六級標題 我是索拉,我喜歡不居小節</description>
+      <description>裸辭是對於現況的某種程度不滿
+檢討自己與環境需要進行改變
+寫寫日誌幫忙整理一些思緒
+年紀大了難免更看能清楚事物本質
+進而取捨，丟掉一些不必要的煩惱
+純粹地過生活真的是一件幸福的事
+ 技術文章 人生體驗 寵物日常 旅遊雜記  </description>
     </item>
     
   </channel>

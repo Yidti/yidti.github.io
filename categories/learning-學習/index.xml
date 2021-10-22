@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning 學習 on 老皮的煙草</title>
+    <link>https://yidti.github.io/categories/learning-%E5%AD%B8%E7%BF%92/</link>
+    <description>Recent content in Learning 學習 on 老皮的煙草</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 23 Oct 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://yidti.github.io/categories/learning-%E5%AD%B8%E7%BF%92/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo架設網站</title>
+      <link>https://yidti.github.io/blog/hugo/hugo-0/</link>
+      <pubDate>Sat, 23 Oct 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://yidti.github.io/blog/hugo/hugo-0/</guid>
+      <description>第一次接觸到Hugo是一年前從購買Hahow課程
+古老師上課很有條理，這門課非常平易近人
+像我這樣新手也可以很快吸收一些概念
+實作起來非常有成就感XDD
+Hahow課程 - Github 免費架站術！輕鬆打造個人品牌 https://hahow.in/courses/5de8fec16117240026540b9c/main
+Hugo官網 https://gohugo.</description>
+    </item>
+    
+  </channel>
+</rss>
