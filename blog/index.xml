@@ -8,14 +8,16 @@
     <language>zh-tw</language>
     <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://yidti.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hugo - 累積訪客次數</title>
-      <link>https://yidti.github.io/blog/hugo/visitor_counter/</link>
+      <title>Hugo - 修改Markdown字體</title>
+      <link>https://yidti.github.io/blog/hugo/change_font/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0800</pubDate>
       
-      <guid>https://yidti.github.io/blog/hugo/visitor_counter/</guid>
-      <description>參考別人網誌 得知開源visitor-badge
-於Hugo主題資料夾下的layouts/single.html進行修改
-&amp;lt;div class=&amp;#34;views&amp;#34;&amp;gt; &amp;lt;span class=&amp;#34;views&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://visitor-badge.glitch.me/badge?page_id={{ .Permalink }}&amp;#34; alt=&amp;#34;Views&amp;#34;/&amp;gt; &amp;lt;/span&amp;gt; &amp;lt;/div&amp;gt; 完成後的圖示 可愛!</description>
+      <guid>https://yidti.github.io/blog/hugo/change_font/</guid>
+      <description>由於寫網誌的時候都會用markdown的語法把code包裝起來，
+原始的字型可能都不太好看，想改！！！ 至於配色也是在這裡頭改唷 (我已經忘記改了什麼＠＠，下次有改會再補上XD)
+於是乎參考老師網誌的版型(查看原始碼！XD)
+進行以下修改
+ 首先找到這個_main.scss  在Markdown的區域進行修改 (有需要請import字體)  /* markdown style */ @import url(&amp;#39;https://fonts.</description>
     </item>
     
     <item>
@@ -28,6 +30,17 @@
  生活照 截圖   將圖片上傳至imgur，並取得圖片連結 https://imgur.com/004s1CB.jpeg
 圖片有點太大，Markdown語法似乎無法調整尺寸
  使用Markdown語法 !</description>
+    </item>
+    
+    <item>
+      <title>Hugo - 累積訪客次數</title>
+      <link>https://yidti.github.io/blog/hugo/visitor_counter/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://yidti.github.io/blog/hugo/visitor_counter/</guid>
+      <description>參考別人網誌 得知開源visitor-badge
+於Hugo主題資料夾下的layouts/single.html進行修改
+&amp;lt;div class=&amp;#34;views&amp;#34;&amp;gt; &amp;lt;span class=&amp;#34;views&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://visitor-badge.glitch.me/badge?page_id={{ .Permalink }}&amp;#34; alt=&amp;#34;Views&amp;#34;/&amp;gt; &amp;lt;/span&amp;gt; &amp;lt;/div&amp;gt; 完成後的圖示 可愛!</description>
     </item>
     
     <item>
