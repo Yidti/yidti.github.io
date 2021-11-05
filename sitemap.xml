@@ -2,37 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yidti.github.io/blog/hugo-directorystructure/</loc>
-    <lastmod>2021-10-24T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://yidti.github.io/categories/</loc>
-    <lastmod>2021-10-24T00:00:00+08:00</lastmod>
+    <lastmod>2021-11-05T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://yidti.github.io/tags/hugo/</loc>
-    <lastmod>2021-10-24T00:00:00+08:00</lastmod>
+    <lastmod>2021-11-05T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://yidti.github.io/categories/learning-%E5%AD%B8%E7%BF%92/</loc>
-    <lastmod>2021-10-24T00:00:00+08:00</lastmod>
+    <loc>https://yidti.github.io/blog/hugo/visitor_counter/</loc>
+    <lastmod>2021-11-05T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://yidti.github.io/tags/</loc>
-    <lastmod>2021-10-24T00:00:00+08:00</lastmod>
+    <lastmod>2021-11-05T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://yidti.github.io/categories/website/</loc>
+    <lastmod>2021-11-05T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://yidti.github.io/</loc>
+    <lastmod>2021-11-05T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://yidti.github.io/blog/hugo/put_image/</loc>
+    <lastmod>2021-11-04T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://yidti.github.io/blog/hugo/directory_structure/</loc>
     <lastmod>2021-10-24T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://yidti.github.io/blog/hugo-source/</loc>
+    <loc>https://yidti.github.io/blog/hugo/learing_source/</loc>
     <lastmod>2021-10-23T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://yidti.github.io/blog/quit/</loc>
     <lastmod>2021-10-20T22:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://yidti.github.io/categories/%E5%AF%AB%E5%AF%AB%E5%BB%A2%E6%96%87/</loc>
+    <loc>https://yidti.github.io/tags/life/</loc>
     <lastmod>2021-10-20T22:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://yidti.github.io/tags/%E6%94%B9%E8%AE%8A/</loc>
+    <loc>https://yidti.github.io/tags/routine/</loc>
     <lastmod>2021-10-20T22:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://yidti.github.io/tags/%E6%B8%AC%E8%A9%A6/</loc>
+    <loc>https://yidti.github.io/categories/scrap/</loc>
     <lastmod>2021-10-20T22:00:00+08:00</lastmod>
   </url><url>
     <loc>https://yidti.github.io/about/</loc>

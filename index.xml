@@ -6,22 +6,45 @@
     <description>Recent content on 老皮的煙草</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 24 Oct 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://yidti.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://yidti.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[Hugo] 資料夾結構</title>
-      <link>https://yidti.github.io/blog/hugo-directorystructure/</link>
+      <title>Hugo - 累積訪客次數</title>
+      <link>https://yidti.github.io/blog/hugo/visitor_counter/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://yidti.github.io/blog/hugo/visitor_counter/</guid>
+      <description>參考別人網誌 得知開源visitor-badge
+於Hugo主題資料夾下的layouts/single.html進行修改
+print(&amp;#34;Hello World&amp;#34;) print(&amp;#34;Hello World&amp;#34;) print(&amp;#34;Hello World&amp;#34;) String routingKey = &amp;#34;.</description>
+    </item>
+    
+    <item>
+      <title>Hugo - 放置網誌圖片</title>
+      <link>https://yidti.github.io/blog/hugo/put_image/</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://yidti.github.io/blog/hugo/put_image/</guid>
+      <description>首先準備一些圖片
+ 生活照 截圖   將圖片上傳至imgur，並取得圖片連結 https://imgur.com/004s1CB.jpeg
+圖片有點太大，Markdown語法似乎無法調整尺寸
+ 使用Markdown語法 !</description>
+    </item>
+    
+    <item>
+      <title>Hugo - 資料夾結構</title>
+      <link>https://yidti.github.io/blog/hugo/directory_structure/</link>
       <pubDate>Sun, 24 Oct 2021 00:00:00 +0800</pubDate>
       
-      <guid>https://yidti.github.io/blog/hugo-directorystructure/</guid>
+      <guid>https://yidti.github.io/blog/hugo/directory_structure/</guid>
       <description>Hugo’s CLI scaffolds a project directory structure and then takes that single directory and uses it as the input to create a complete website.</description>
     </item>
     
     <item>
-      <title>[Hugo] 學習資源</title>
-      <link>https://yidti.github.io/blog/hugo-source/</link>
+      <title>Hugo - 學習資源</title>
+      <link>https://yidti.github.io/blog/hugo/learing_source/</link>
       <pubDate>Sat, 23 Oct 2021 00:00:00 +0800</pubDate>
       
-      <guid>https://yidti.github.io/blog/hugo-source/</guid>
+      <guid>https://yidti.github.io/blog/hugo/learing_source/</guid>
       <description>第一次接觸到Hugo是一年前從購買Hahow課程
 古老師上課很有條理，這門課非常平易近人
 像我這樣新手也可以很快吸收一些概念

@@ -6,7 +6,7 @@
 
   <title>
     
-    38歲年末
+    Hugo - 放置網誌圖片
     
   </title>
 
@@ -14,7 +14,7 @@
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="中年裸辭大叔，沈澱省思，該丟的東西不要留">
+  <meta name="description" content="想要實現什麼？放置圖片">
   <meta name="author" content="Sola">
   <meta name="generator" content="Hugo 0.88.1" />
 
@@ -94,39 +94,51 @@
     <div class="row">
       <div class="col-lg-10 mx-auto">
         
-        <a href="/categories/scrap"
-          class="text-primary">Scrap</a>
+        <a href="/categories/website"
+          class="text-primary">Website</a>
         
-        <h2>38歲年末</h2>
+        <h2>Hugo - 放置網誌圖片</h2>
         <div class="mb-3 post-meta">
           <span>By Sola</span>
           
           <span class="border-bottom border-primary px-2 mx-1"></span>
-          <span>20 October 2021</span>
+          <span>04 November 2021</span>
           
         </div>
         
 
       <div class="views">
           <span class="views">
-              <img src="https://visitor-badge.glitch.me/badge?page_id=https%3a%2f%2fyidti.github.io%2fblog%2fquit%2f" alt="Views"/>
+              <img src="https://visitor-badge.glitch.me/badge?page_id=https%3a%2f%2fyidti.github.io%2fblog%2fhugo%2fput_image%2f" alt="Views"/>
           </span>
       </div>
       <br>
 
         <div class="content mb-5">
-          <p>裸辭是對於現況的某種程度不滿<br>
-檢討自己與環境需要進行改變<br>
-寫寫日誌幫忙整理一些思緒<br>
-年紀大了難免更看能清楚事物本質<br>
-進而取捨，丟掉一些不必要的煩惱<br>
-純粹地過生活真的是一件幸福的事</p>
+          <p>首先準備一些圖片</p>
 <ul>
-<li>技術文章</li>
-<li>人生體驗</li>
-<li>寵物日常</li>
-<li>旅遊雜記</li>
+<li>生活照</li>
+<li>截圖</li>
 </ul>
+<blockquote>
+<p>將圖片上傳至imgur，並取得圖片連結
+<a href="https://imgur.com/004s1CB.jpeg">https://imgur.com/004s1CB.jpeg</a><br>
+圖片有點太大，Markdown語法似乎無法調整尺寸</p>
+</blockquote>
+<h3 id="使用markdown語法">使用Markdown語法</h3>
+<div class="highlight"><pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-markdown" data-lang="markdown">![](https://imgur.com/004s1CB.jpeg)
+</code></pre></div><p><img src="https://imgur.com/004s1CB.jpeg" alt=""></p>
+<h3 id="使用shortcode---resize">使用Shortcode - resize</h3>
+<div class="highlight"><pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-markdown" data-lang="markdown">{{&lt; <span style="color:#062873;font-weight:bold">img</span> <span style="color:#4070a0">src</span><span style="color:#666">=</span><span style="color:#4070a0">&#34;https://i.imgur.com/004s1CB.png&#34;</span> <span style="color:#4070a0">width</span><span style="color:#666">=</span><span style="color:#4070a0">&#34;80%&#34;</span> &gt;}}
+</code></pre></div><img src="https://i.imgur.com/004s1CB.png" 
+style="width: 80%; height: ;">
+<h3 id="使用shortcode---fullwidth">使用Shortcode - fullwidth</h3>
+<div class="highlight"><pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-markdown" data-lang="markdown">{{&lt; <span style="color:#062873;font-weight:bold">img</span> <span style="color:#4070a0">openable</span><span style="color:#666">=</span><span style="color:#4070a0">true</span> <span style="color:#4070a0">src</span><span style="color:#666">=</span><span style="color:#4070a0">&#34;https://i.imgur.com/004s1CB.png&#34;</span> &gt;}}
+</code></pre></div><img src="https://i.imgur.com/004s1CB.png" 
+style="width: ; height: ;">
+<h5 id="reference">Reference</h5>
+<p><a href="https://gohugo.io/content-management/image-processing/">Hugo - Image Processing</a><br>
+<a href="https://ithelp.ithome.com.tw/articles/10250512">Hugo Shortcode 運用場景 - 圖片篇</a></p>
 
         </div>
 
