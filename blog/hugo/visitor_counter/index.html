@@ -117,19 +117,15 @@
         <div class="content mb-5">
           <p>參考別人網誌 得知開源visitor-badge<br>
 於Hugo主題資料夾下的layouts/single.html進行修改</p>
-<img src="/content/blog/hugo/VisitorCounter/images/vistorCounter-1.png" 
-style="width: 80%; height: ;">
-<p><img src="/blog/hugo/visitorcounter/images/vistorCounter-1.png" alt="visitorCounter"></p>
-<div class="highlight"><pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#007020">print</span>(<span style="color:#4070a0">&#34;Hello World&#34;</span>)
-<span style="color:#007020">print</span>(<span style="color:#4070a0">&#34;Hello World&#34;</span>)
-<span style="color:#007020">print</span>(<span style="color:#4070a0">&#34;Hello World&#34;</span>)
-</code></pre></div><div class="highlight"><pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-java" data-lang="java">String routingKey <span style="color:#666">=</span> <span style="color:#4070a0">&#34;...&#34;</span><span style="color:#666">;</span>
-<span style="color:#007020;font-weight:bold">if</span> <span style="color:#666">(</span>routingKey<span style="color:#666">.</span><span style="color:#4070a0">equals</span><span style="color:#666">(</span><span style="color:#4070a0">&#34;orange&#34;</span><span style="color:#666">))</span> <span style="color:#666">{</span>
-    sendMessageToQ1<span style="color:#666">();</span>
-<span style="color:#666">}</span> <span style="color:#007020;font-weight:bold">else</span> <span style="color:#007020;font-weight:bold">if</span> <span style="color:#666">(</span>routingKey<span style="color:#666">.</span><span style="color:#4070a0">equals</span><span style="color:#666">(</span><span style="color:#4070a0">&#34;black&#34;</span><span style="color:#666">)</span> <span style="color:#666">||</span> routingKey<span style="color:#666">.</span><span style="color:#4070a0">equals</span><span style="color:#666">(</span><span style="color:#4070a0">&#34;green&#34;</span><span style="color:#666">))</span> <span style="color:#666">{</span>
-    sendMessageToQ2<span style="color:#666">();</span>
-<span style="color:#666">}</span>
-</code></pre></div><h5 id="reference">Reference</h5>
+<p><img src="/blog/hugo/visitor_counter/images/vistorCounter-1.png" alt="visitorCounter"></p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">&lt;<span style="color:#062873;font-weight:bold">div</span> <span style="color:#4070a0">class</span><span style="color:#666">=</span><span style="color:#4070a0">&#34;views&#34;</span>&gt;
+    &lt;<span style="color:#062873;font-weight:bold">span</span> <span style="color:#4070a0">class</span><span style="color:#666">=</span><span style="color:#4070a0">&#34;views&#34;</span>&gt;
+        &lt;<span style="color:#062873;font-weight:bold">img</span> <span style="color:#4070a0">src</span><span style="color:#666">=</span><span style="color:#4070a0">&#34;https://visitor-badge.glitch.me/badge?page_id={{ .Permalink }}&#34;</span> <span style="color:#4070a0">alt</span><span style="color:#666">=</span><span style="color:#4070a0">&#34;Views&#34;</span>/&gt;
+    &lt;/<span style="color:#062873;font-weight:bold">span</span>&gt;
+&lt;/<span style="color:#062873;font-weight:bold">div</span>&gt;
+</code></pre></div><p>完成後的圖示 可愛!!!<br>
+<img src="/blog/hugo/visitor_counter/images/vistorCounter-2.png" alt="visitorCounter"></p>
+<h5 id="reference">Reference</h5>
 <p><a href="https://ravichaganti.com/blog/adding-visitor-counter-to-statically-generated-web-pages/">Add Visitor Counter</a><br>
 <a href="https://visitor-badge.glitch.me/">vistor-badge</a></p>
 

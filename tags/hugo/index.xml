@@ -15,7 +15,7 @@
       <guid>https://yidti.github.io/blog/hugo/visitor_counter/</guid>
       <description>參考別人網誌 得知開源visitor-badge
 於Hugo主題資料夾下的layouts/single.html進行修改
-print(&amp;#34;Hello World&amp;#34;) print(&amp;#34;Hello World&amp;#34;) print(&amp;#34;Hello World&amp;#34;) String routingKey = &amp;#34;.</description>
+&amp;lt;div class=&amp;#34;views&amp;#34;&amp;gt; &amp;lt;span class=&amp;#34;views&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://visitor-badge.glitch.me/badge?page_id={{ .Permalink }}&amp;#34; alt=&amp;#34;Views&amp;#34;/&amp;gt; &amp;lt;/span&amp;gt; &amp;lt;/div&amp;gt; 完成後的圖示 可愛!</description>
     </item>
     
     <item>
