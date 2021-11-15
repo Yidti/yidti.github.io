@@ -8,6 +8,18 @@
     <language>zh-tw</language>
     <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://yidti.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Cryptocurrency - 加密貨幣</title>
+      <link>https://yidti.github.io/blog/cryptocurrency/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://yidti.github.io/blog/cryptocurrency/</guid>
+      <description>接觸新領域，加密貨幣蠻有趣的！
+2021年末才開始接觸，算晚嗎？ 投資始終不嫌晚，不要當韭菜各位加油！
+即將要進場的觀眾們給各位忠告：
+ 新領域慎防詐騙 交易所的資安性 交易所的倒閉風險 投資各幣別風險評估 未知領域知識攝取 進行資產分配 開心過生活！！！   推薦線上課程：</description>
+    </item>
+    
+    <item>
       <title>Hugo - 修改Markdown字體</title>
       <link>https://yidti.github.io/blog/hugo/change_font/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0800</pubDate>
@@ -68,10 +80,10 @@ Hugo官網 https://gohugo.</description>
     
     <item>
       <title>38歲年末</title>
-      <link>https://yidti.github.io/blog/quit/</link>
+      <link>https://yidti.github.io/blog/life/quit/</link>
       <pubDate>Wed, 20 Oct 2021 22:00:00 +0800</pubDate>
       
-      <guid>https://yidti.github.io/blog/quit/</guid>
+      <guid>https://yidti.github.io/blog/life/quit/</guid>
       <description>裸辭是對於現況的某種程度不滿
 檢討自己與環境需要進行改變
 寫寫日誌幫忙整理一些思緒
@@ -79,6 +91,15 @@ Hugo官網 https://gohugo.</description>
 進而取捨，丟掉一些不必要的煩惱
 純粹地過生活真的是一件幸福的事
  技術文章 人生體驗 寵物日常 旅遊雜記  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://yidti.github.io/blog/hugo/seo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yidti.github.io/blog/hugo/seo/</guid>
+      <description></description>
     </item>
     
   </channel>
