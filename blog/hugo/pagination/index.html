@@ -117,9 +117,9 @@
         <div class="content mb-5">
           <p>寫網誌的時候，主題themes在累積滿六篇文章之後，<br>
 不知道為什麼沒有顯示，前一頁後一頁的分頁設定？<br>
-後來發現我在 themes/liva-hugo/layouts/index.md<br>
-好像不小心註解某段程式碼<br>
-解決方反：取消註解就可以了www~~</p>
+後來發現我在 <code>themes/liva-hugo/layouts/index.md</code><br>
+尾段好像不小心註解某段程式碼<br>
+解決方案：取消註解就可以了www~~</p>
 <div class="highlight"><pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html"><span style="color:#60a0b0;font-style:italic">&lt;!-- pagination --&gt;</span>
     &lt;<span style="color:#062873;font-weight:bold">div</span> <span style="color:#4070a0">class</span><span style="color:#666">=</span><span style="color:#4070a0">&#34;col-12 mt-5&#34;</span>&gt;
       {{ template &#34;_internal/pagination.html&#34; . }}

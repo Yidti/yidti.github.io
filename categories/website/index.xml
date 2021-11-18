@@ -16,8 +16,8 @@
       <description>寫網誌的時候，主題themes在累積滿六篇文章之後，
 不知道為什麼沒有顯示，前一頁後一頁的分頁設定？
 後來發現我在 themes/liva-hugo/layouts/index.md
-好像不小心註解某段程式碼
-解決方反：取消註解就可以了www~~
+尾段好像不小心註解某段程式碼
+解決方案：取消註解就可以了www~~
 &amp;lt;!-- pagination --&amp;gt; &amp;lt;div class=&amp;#34;col-12 mt-5&amp;#34;&amp;gt; {{ template &amp;#34;_internal/pagination.</description>
     </item>
     
