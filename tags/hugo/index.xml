@@ -6,7 +6,21 @@
     <description>Recent content in Hugo on 老皮的煙草</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://yidti.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Nov 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://yidti.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo - 切換分頁</title>
+      <link>https://yidti.github.io/blog/hugo/pagination/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://yidti.github.io/blog/hugo/pagination/</guid>
+      <description>寫網誌的時候，主題themes在累積滿六篇文章之後，
+不知道為什麼沒有顯示，前一頁後一頁的分頁設定？
+後來發現我在 themes/liva-hugo/layouts/index.md
+好像不小心註解某段程式碼
+解決方反：取消註解就可以了www~~
+&amp;lt;!-- pagination --&amp;gt; &amp;lt;div class=&amp;#34;col-12 mt-5&amp;#34;&amp;gt; {{ template &amp;#34;_internal/pagination.</description>
+    </item>
+    
     <item>
       <title>Hugo - 修改Markdown字體</title>
       <link>https://yidti.github.io/blog/hugo/change_font/</link>
