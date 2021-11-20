@@ -6,22 +6,31 @@
     <description>Recent content in Categories on 老皮的煙草</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 18 Nov 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://yidti.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Nov 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://yidti.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Website</title>
-      <link>https://yidti.github.io/categories/website/</link>
-      <pubDate>Thu, 18 Nov 2021 00:00:00 +0800</pubDate>
+      <title>Exchange</title>
+      <link>https://yidti.github.io/categories/exchange/</link>
+      <pubDate>Fri, 19 Nov 2021 00:00:00 +0800</pubDate>
       
-      <guid>https://yidti.github.io/categories/website/</guid>
+      <guid>https://yidti.github.io/categories/exchange/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Invest</title>
       <link>https://yidti.github.io/categories/invest/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 19 Nov 2021 00:00:00 +0800</pubDate>
       
       <guid>https://yidti.github.io/categories/invest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Website</title>
+      <link>https://yidti.github.io/categories/website/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://yidti.github.io/categories/website/</guid>
       <description></description>
     </item>
     
