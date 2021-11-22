@@ -6,7 +6,7 @@
 
   <title>
     
-    
+    Github - Git Push hangs !!!
     
   </title>
 
@@ -14,7 +14,7 @@
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="心得分享，關於電影、閱讀、運動、新鮮事物、人生">
+  <meta name="description" content="Git學習？Push上傳時卡住？">
   <meta name="author" content="Sola">
   <meta name="generator" content="Hugo 0.88.1" />
 
@@ -94,25 +94,70 @@
     <div class="row">
       <div class="col-lg-10 mx-auto">
         
-        <h2></h2>
+        <a href="/categories/tools"
+          class="text-primary">Tools</a>
+        
+        <h2>Github - Git Push hangs !!!</h2>
         <div class="mb-3 post-meta">
           <span>By Sola</span>
           
           <span class="border-bottom border-primary px-2 mx-1"></span>
-          <span>01 January 0001</span>
+          <span>22 November 2021</span>
           
         </div>
         
 
       <div class="views">
           <span class="views">
-              <img src="https://visitor-badge.glitch.me/badge?page_id=https%3a%2f%2fyidti.github.io%2fblog%2fhugo%2fseo%2f" alt="Views"/>
+              <img src="https://visitor-badge.glitch.me/badge?page_id=https%3a%2f%2fyidti.github.io%2fblog%2fgithub%2fpush_hangs%2f" alt="Views"/>
           </span>
       </div>
       <br>
 
         <div class="content mb-5">
-          
+          <h4 id="使用github-desktop-介面化很簡單操作但問題也一堆唷">使用Github Desktop 介面化很簡單操作，但問題也一堆唷～</h4>
+<p>寫網誌某一天，網誌裡頭的圖片變多了一些<br>
+上傳的時候就遇到這種事情？？？<br>
+由於桌面視窗不像指令視窗這樣可以看到狀態所以頗麻煩＠＠<br>
+推斷主因是：上傳至Github的圖片變多變大了，於是就去Stack Overflow瞜～</p>
+<blockquote>
+<img src="/blog/github/push_hangs/images/push_hangs-1.png" 
+style="width: 80%; height: ;">
+</blockquote>
+<pre tabindex="0"><code>由於去年購入Apple的Macbook M1之後，愛上它了~ 還在學習操作macOS，
+所以網誌都是用macOS唷，windows使用者就請多包涵 (應該大同小異)
+</code></pre><h5 id="1-首先用finder進入備份至github的網站資料夾點擊-前往前往檔案夾">1. 首先用Finder進入備份至Github的網站資料夾，點擊 前往/前往檔案夾</h5>
+<blockquote>
+<img src="/blog/github/push_hangs/images/push_hangs-2.png" 
+style="width: 30%; height: ;">
+</blockquote>
+<h5 id="2-搜索git資料夾">2. 搜索.git資料夾</h5>
+<blockquote>
+<img src="/blog/github/push_hangs/images/push_hangs-3.png" 
+style="width: 80%; height: ;">
+</blockquote>
+<h5 id="3-從git資料夾中點擊開啟config檔案">3. 從.git資料夾中，點擊開啟config檔案</h5>
+<blockquote>
+<img src="/blog/github/push_hangs/images/push_hangs-4.png" 
+style="width: 80%; height: ;">
+</blockquote>
+<h5 id="4-於文字編輯中新增以下內容擴充buffer並記得儲存">4. 於文字編輯中新增以下內容(擴充buffer)，並記得儲存</h5>
+<div class="highlight"><pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-markdown" data-lang="markdown">[http]
+	postBuffer = 524288000
+</code></pre></div><blockquote>
+<img src="/blog/github/push_hangs/images/push_hangs-5.png" 
+style="width: 80%; height: ;">
+<h5 id="記得存擋">記得存擋！！！</h5>
+<img src="/blog/github/push_hangs/images/push_hangs-6.png" 
+style="width: 40%; height: ;">
+</blockquote>
+<h5 id="操作完後重新github就不會卡頓拉">操作完後重新Github就不會卡頓拉！！！</h5>
+<h5 id="若是直接操作指令請輸入以下指令-後面那串數字緩衝容量自行修改">若是直接操作指令，請輸入以下指令 (後面那串數字緩衝容量自行修改)</h5>
+<pre tabindex="0"><code>git config --global http.postBuffer 524288000
+</code></pre><h5 id="reference">Reference</h5>
+<p><a href="https://stackoverflow.com/questions/39011393/how-to-push-or-upload-images-to-github?noredirect=1&amp;lq=1">How to push or upload images to github?</a><br>
+<a href="https://stackoverflow.com/questions/15843937/git-push-hangs-after-total-line/16084403#16084403">git push hangs after Total line</a></p>
+
         </div>
 
         

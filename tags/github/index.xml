@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Github on 老皮的煙草</title>
+    <link>https://yidti.github.io/tags/github/</link>
+    <description>Recent content in Github on 老皮的煙草</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 22 Nov 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://yidti.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Github - Git Push hangs !!!</title>
+      <link>https://yidti.github.io/blog/github/push_hangs/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://yidti.github.io/blog/github/push_hangs/</guid>
+      <description>使用Github Desktop 介面化很簡單操作，但問題也一堆唷～ 寫網誌某一天，網誌裡頭的圖片變多了一些
+上傳的時候就遇到這種事情？？？
+由於桌面視窗不像指令視窗這樣可以看到狀態所以頗麻煩＠＠
+推斷主因是：上傳至Github的圖片變多變大了，於是就去Stack Overflow瞜～
+  由於去年購入Apple的Macbook M1之後，愛上它了~ 還在學習操作macOS， 所以網誌都是用macOS唷，windows使用者就請多包涵 (應該大同小異) 1.</description>
+    </item>
+    
+  </channel>
+</rss>
