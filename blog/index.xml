@@ -6,9 +6,18 @@
     <description>Recent content in Blogs on 老皮的煙草</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 22 Nov 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://yidti.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://yidti.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Github - Git Push hangs !!!</title>
+      <title>Github - Merge Accounts</title>
+      <link>https://yidti.github.io/blog/github/merge_accounts/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://yidti.github.io/blog/github/merge_accounts/</guid>
+      <description>由於個人學習原因，創了不同Github帳號來寫程式， 切換帳號覺得很麻煩，於是想合併這些Github帳號 &amp;gt;o&amp;lt;  將欲保留的repositories進行轉移   即將移除帳號中設定進行轉移動作 保留帳號信箱確認轉移信件 保留帳號中確認轉移成功  更新remote URLs   查詢remote的位置  $ git remote -v origin git@github.</description>
+    </item>
+    
+    <item>
+      <title>Github - Git Push hangs</title>
       <link>https://yidti.github.io/blog/github/push_hangs/</link>
       <pubDate>Mon, 22 Nov 2021 00:00:00 +0800</pubDate>
       
@@ -138,6 +147,15 @@ Hugo官網 https://gohugo.</description>
 進而取捨，丟掉一些不必要的煩惱
 純粹地過生活真的是一件幸福的事
  技術文章 人生體驗 寵物日常 旅遊雜記  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://yidti.github.io/blog/hugo/external_link/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yidti.github.io/blog/hugo/external_link/</guid>
+      <description>https://adityatelange.in/blog/hugo-external-link-new-tab/</description>
     </item>
     
   </channel>
