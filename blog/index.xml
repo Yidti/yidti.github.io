@@ -6,7 +6,16 @@
     <description>Recent content in Blogs on 老皮的煙草</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://yidti.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Dec 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://yidti.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo - External link</title>
+      <link>https://yidti.github.io/blog/hugo/external_link/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://yidti.github.io/blog/hugo/external_link/</guid>
+      <description>每篇文章下方參考資訊，其連結原本都是用Markdown語法 [Yidti的網誌](https://yidti.github.io/) 但是他們都不會新開分頁，而直接將本分頁進此此連結   設定開啟新分頁的連結  建立Short code (themes/liva-hugo/layouts/shortcodes)   建立一個新檔案 newtabref.</description>
+    </item>
+    
     <item>
       <title>Github - Merge Accounts</title>
       <link>https://yidti.github.io/blog/github/merge_accounts/</link>
@@ -147,15 +156,6 @@ Hugo官網 https://gohugo.</description>
 進而取捨，丟掉一些不必要的煩惱
 純粹地過生活真的是一件幸福的事
  技術文章 人生體驗 寵物日常 旅遊雜記  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://yidti.github.io/blog/hugo/external_link/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yidti.github.io/blog/hugo/external_link/</guid>
-      <description>https://adityatelange.in/blog/hugo-external-link-new-tab/</description>
     </item>
     
   </channel>

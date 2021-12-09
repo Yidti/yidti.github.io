@@ -6,7 +6,7 @@
 
   <title>
     
-    
+    Hugo - External link
     
   </title>
 
@@ -14,7 +14,7 @@
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="心得分享，關於電影、閱讀、運動、新鮮事物、人生">
+  <meta name="description" content="要實現什麼？外部連結">
   <meta name="author" content="Sola">
   <meta name="generator" content="Hugo 0.88.1" />
 
@@ -94,12 +94,15 @@
     <div class="row">
       <div class="col-lg-10 mx-auto">
         
-        <h2></h2>
+        <a href="/categories/website"
+          class="text-primary">Website</a>
+        
+        <h2>Hugo - External link</h2>
         <div class="mb-3 post-meta">
           <span>By Sola</span>
           
           <span class="border-bottom border-primary px-2 mx-1"></span>
-          <span>01 January 0001</span>
+          <span>09 December 2021</span>
           
         </div>
         
@@ -112,7 +115,31 @@
       <br>
 
         <div class="content mb-5">
-          <p><a href="https://adityatelange.in/blog/hugo-external-link-new-tab/">https://adityatelange.in/blog/hugo-external-link-new-tab/</a></p>
+          <blockquote>
+<h4 id="每篇文章下方參考資訊其連結原本都是用markdown語法">每篇文章下方參考資訊，其連結原本都是用Markdown語法</h4>
+<div class="highlight"><pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-Markdown" data-lang="Markdown">[<span style="color:#062873;font-weight:bold">Yidti的網誌</span>](<span style="color:#4070a0">https://yidti.github.io/</span>)
+</code></pre></div><h4 id="但是他們都不會新開分頁而直接將本分頁進此此連結">但是他們都不會新開分頁，而直接將本分頁進此此連結</h4>
+</blockquote>
+<hr>
+<h3 id="設定開啟新分頁的連結">設定開啟新分頁的連結</h3>
+<ol>
+<li>建立Short code (themes/liva-hugo/layouts/shortcodes)</li>
+</ol>
+<blockquote>
+<h4 id="建立一個新檔案-newtabrefhtml輸入以下內容">建立一個新檔案 newtabref.html，輸入以下內容</h4>
+<div class="highlight"><pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go">&lt;a href=<span style="color:#4070a0">&#34;{{ .Get &#34;</span>href<span style="color:#4070a0">&#34; }}&#34;</span> rel=<span style="color:#4070a0">&#34;noopener&#34;</span> target=<span style="color:#4070a0">&#34;_blank&#34;</span>&gt;{{ .Get <span style="color:#4070a0">&#34;title&#34;</span> }}&lt;<span style="color:#666">/</span>a&gt;
+</code></pre></div></blockquote>
+<ol start="2">
+<li>開啟新分頁的連結寫法</li>
+</ol>
+<blockquote>
+<h4 id="使用shortcode">使用shortcode</h4>
+<div class="highlight"><pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go">{{&lt; newtabref href=<span style="color:#4070a0">&#34;https://yidti.github.io/&#34;</span> title=<span style="color:#4070a0">&#34;Yidti的網誌&#34;</span>&gt;}}
+</code></pre></div></blockquote>
+<p>未來點開連結就會開啟新分頁摟！</p>
+<h4 id="reference">Reference</h4>
+<a href="https://adityatelange.in/blog/hugo-external-link-new-tab/" rel="noopener" target="_blank">Hugo external link new tab</a>
+
 
         </div>
 
