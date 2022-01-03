@@ -84,19 +84,5 @@
       <description>Hugo’s CLI scaffolds a project directory structure and then takes that single directory and uses it as the input to create a complete website.</description>
     </item>
     
-    <item>
-      <title>Hugo - 學習資源</title>
-      <link>https://yidti.github.io/blog/hugo/learing_source/</link>
-      <pubDate>Sat, 23 Oct 2021 00:00:00 +0800</pubDate>
-      
-      <guid>https://yidti.github.io/blog/hugo/learing_source/</guid>
-      <description>第一次接觸到Hugo是一年前從購買Hahow課程
-古老師上課很有條理，這門課非常平易近人
-像我這樣新手也可以很快吸收一些概念
-實作起來非常有成就感XDD
-Hahow課程 - Github 免費架站術！輕鬆打造個人品牌 https://hahow.in/courses/5de8fec16117240026540b9c/main
-Hugo官網 https://gohugo.</description>
-    </item>
-    
   </channel>
 </rss>
