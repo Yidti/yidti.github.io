@@ -171,5 +171,14 @@ Hugo官網 https://gohugo.</description>
  技術文章 人生體驗 寵物日常 旅遊雜記  </description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://yidti.github.io/practice/tindog/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yidti.github.io/practice/tindog/readme/</guid>
+      <description>TinDog Starting Files</description>
+    </item>
+    
   </channel>
 </rss>
