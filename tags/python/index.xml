@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on 老皮的煙草</title>
+    <link>https://yidti.github.io/tags/python/</link>
+    <description>Recent content in Python on 老皮的煙草</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 16 Apr 2022 00:00:00 +0800</lastBuildDate><atom:link href="https://yidti.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python - Bootcamp</title>
+      <link>https://yidti.github.io/blog/study/python/</link>
+      <pubDate>Sat, 16 Apr 2022 00:00:00 +0800</pubDate>
+      
+      <guid>https://yidti.github.io/blog/study/python/</guid>
+      <description>上完第一堂課後，對於整體Web開發有了概念與雛形 (大約花了2個多月左右)
+ The Complete 2022 Web Development Bootcamp
+Become a Full-Stack Web Developer with just ONE course.</description>
+    </item>
+    
+  </channel>
+</rss>
