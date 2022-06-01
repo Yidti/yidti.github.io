@@ -16,7 +16,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="想要實現什麼？切換分頁">
   <meta name="author" content="Sola">
-  <meta name="generator" content="Hugo 0.88.1" />
+  <meta name="generator" content="Hugo 0.99.1" />
 
   <!-- plugins -->
   
@@ -120,11 +120,11 @@
 後來發現我在 <code>themes/liva-hugo/layouts/index.md</code><br>
 尾段好像不小心註解某段程式碼<br>
 解決方案：取消註解就可以了www~~</p>
-<div class="highlight"><pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html"><span style="color:#60a0b0;font-style:italic">&lt;!-- pagination --&gt;</span>
-    &lt;<span style="color:#062873;font-weight:bold">div</span> <span style="color:#4070a0">class</span><span style="color:#666">=</span><span style="color:#4070a0">&#34;col-12 mt-5&#34;</span>&gt;
-      {{ template &#34;_internal/pagination.html&#34; . }}
-    &lt;/<span style="color:#062873;font-weight:bold">div</span>&gt;
-</code></pre></div><blockquote>
+<div class="highlight"><pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span><span style="color:#60a0b0;font-style:italic">&lt;!-- pagination --&gt;</span>
+</span></span><span style="display:flex;"><span>    &lt;<span style="color:#062873;font-weight:bold">div</span> <span style="color:#4070a0">class</span><span style="color:#666">=</span><span style="color:#4070a0">&#34;col-12 mt-5&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>      {{ template &#34;_internal/pagination.html&#34; . }}
+</span></span><span style="display:flex;"><span>    &lt;/<span style="color:#062873;font-weight:bold">div</span>&gt;
+</span></span></code></pre></div><blockquote>
 <p>原始顯示：
 <img src="/blog/hugo/pagination/images/pagination-1.png" 
 style="width: 80%; height: ;"><br>

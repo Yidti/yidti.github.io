@@ -6,31 +6,42 @@
     <description>Recent content in Github on 老皮的煙草</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 09 Dec 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://yidti.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0800</lastBuildDate><atom:link href="https://yidti.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Github - Profile README</title>
+      <link>https://yidti.github.io/blog/github/profile-readme/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0800</pubDate>
+      
+      <guid>https://yidti.github.io/blog/github/profile-readme/</guid>
+      <description>如何在Github展示你的個人簡介 某天瀏覽到別人的github的時候，發現好漂亮唷！
+首頁就顯示個人簡介與作品連結，羨慕！
+實作方式  登入Github 點擊右上角＋選擇New repository 於Repository Name欄位，設置與你的Github的username一樣名稱   Message  於專案設置為Public 勾選Add a README file選項 點擊Create repository  編輯README 可以新增一些GIFs或者Badges，讓頁面更豐富</description>
+    </item>
+    
     <item>
       <title>Hugo - External link</title>
-      <link>https://yidti.github.io/blog/hugo/external_link/</link>
+      <link>https://yidti.github.io/blog/hugo/external-link/</link>
       <pubDate>Thu, 09 Dec 2021 00:00:00 +0800</pubDate>
       
-      <guid>https://yidti.github.io/blog/hugo/external_link/</guid>
+      <guid>https://yidti.github.io/blog/hugo/external-link/</guid>
       <description>每篇文章下方參考資訊，其連結原本都是用Markdown語法 [Yidti的網誌](https://yidti.github.io/) 但是他們都不會新開分頁，而直接將本分頁進此此連結   設定開啟新分頁的連結  建立Short code (themes/liva-hugo/layouts/shortcodes)   建立一個新檔案 newtabref.</description>
     </item>
     
     <item>
       <title>Github - Merge Accounts</title>
-      <link>https://yidti.github.io/blog/github/merge_accounts/</link>
+      <link>https://yidti.github.io/blog/github/merge-accounts/</link>
       <pubDate>Tue, 23 Nov 2021 00:00:00 +0800</pubDate>
       
-      <guid>https://yidti.github.io/blog/github/merge_accounts/</guid>
+      <guid>https://yidti.github.io/blog/github/merge-accounts/</guid>
       <description>由於個人學習原因，創了不同Github帳號來寫程式， 切換帳號覺得很麻煩，於是想合併這些Github帳號 &amp;gt;o&amp;lt;  將欲保留的repositories進行轉移   即將移除帳號中設定進行轉移動作 保留帳號信箱確認轉移信件 保留帳號中確認轉移成功  更新remote URLs   查詢remote的位置  $ git remote -v origin git@github.</description>
     </item>
     
     <item>
       <title>Github - Git Push hangs</title>
-      <link>https://yidti.github.io/blog/github/push_hangs/</link>
+      <link>https://yidti.github.io/blog/github/push-hangs/</link>
       <pubDate>Mon, 22 Nov 2021 00:00:00 +0800</pubDate>
       
-      <guid>https://yidti.github.io/blog/github/push_hangs/</guid>
+      <guid>https://yidti.github.io/blog/github/push-hangs/</guid>
       <description>使用Github Desktop 介面化很簡單操作，但問題也一堆唷～ 寫網誌某一天，網誌裡頭的圖片變多了一些
 上傳的時候就遇到這種事情？？？
 由於桌面視窗不像指令視窗這樣可以看到狀態所以頗麻煩＠＠

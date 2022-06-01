@@ -6,7 +6,7 @@
 
   <title>
     
-    Github - Merge Accounts
+    Hugo - 修改Markdown字體
     
   </title>
 
@@ -14,9 +14,9 @@
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="Git學習？合併帳戶">
+  <meta name="description" content="想要實現什麼？修改字體">
   <meta name="author" content="Sola">
-  <meta name="generator" content="Hugo 0.88.1" />
+  <meta name="generator" content="Hugo 0.99.1" />
 
   <!-- plugins -->
   
@@ -94,80 +94,60 @@
     <div class="row">
       <div class="col-lg-10 mx-auto">
         
-        <a href="/categories/tools"
-          class="text-primary">Tools</a>
+        <a href="/categories/website"
+          class="text-primary">Website</a>
         
-        <h2>Github - Merge Accounts</h2>
+        <h2>Hugo - 修改Markdown字體</h2>
         <div class="mb-3 post-meta">
           <span>By Sola</span>
           
           <span class="border-bottom border-primary px-2 mx-1"></span>
-          <span>23 November 2021</span>
+          <span>05 November 2021</span>
           
         </div>
         
 
       <div class="views">
           <span class="views">
-              <img src="https://visitor-badge.glitch.me/badge?page_id=https%3a%2f%2fyidti.github.io%2fblog%2fgithub%2fmerge_accounts%2f" alt="Views"/>
+              <img src="https://visitor-badge.glitch.me/badge?page_id=https%3a%2f%2fyidti.github.io%2fblog%2fhugo%2fchange-font%2f" alt="Views"/>
           </span>
       </div>
       <br>
 
         <div class="content mb-5">
-          <h4 id="由於個人學習原因創了不同github帳號來寫程式">由於個人學習原因，創了不同Github帳號來寫程式，</h4>
-<h4 id="切換帳號覺得很麻煩於是想合併這些github帳號-o">切換帳號覺得很麻煩，於是想合併這些Github帳號 &gt;o&lt;</h4>
+          <p>由於寫網誌的時候都會用markdown的語法把code包裝起來，<br>
+原始的字型可能都不太好看，想改！！！
+至於配色也是在這裡頭改唷 (我已經忘記改了什麼＠＠，下次有改會再補上XD)</p>
+<p>於是乎參考老師網誌的版型(查看原始碼！XD)<br>
+進行以下修改</p>
 <ol>
-<li>將欲保留的repositories進行轉移</li>
+<li>首先找到這個_main.scss</li>
 </ol>
-<blockquote>
-<h4 id="即將移除帳號中設定進行轉移動作">即將移除帳號中設定進行轉移動作</h4>
-<p><img src="/blog/github/merge_accounts/images/merge_accounts-1.png" 
-style="width: 80%; height: ;"><br>
-<img src="/blog/github/merge_accounts/images/merge_accounts-2.png" 
-style="width: 80%; height: ;"><br>
-<img src="/blog/github/merge_accounts/images/merge_accounts-3.png" 
-style="width: 50%; height: ;"></p>
-<h4 id="保留帳號信箱確認轉移信件">保留帳號信箱確認轉移信件</h4>
-<img src="/blog/github/merge_accounts/images/merge_accounts-4.png" 
-style="width: 80%; height: ;">
-<h4 id="保留帳號中確認轉移成功">保留帳號中確認轉移成功</h4>
-<img src="/blog/github/merge_accounts/images/merge_accounts-5.png" 
-style="width: 30%; height: ;">
-</blockquote>
+<p><img src="/blog/hugo/change-font/images/change-font-1.png" alt="change_font-1"></p>
 <ol start="2">
-<li>更新remote URLs</li>
+<li>在Markdown的區域進行修改 (有需要請import字體)</li>
 </ol>
-<blockquote>
-<h4 id="查詢remote的位置">查詢remote的位置</h4>
-</blockquote>
-<pre tabindex="0"><code>$ git remote -v
-origin  git@github.com:USERNAME/REPOSITORY.git (fetch)
-origin  git@github.com:USERNAME/REPOSITORY.git (push)
-</code></pre><blockquote>
-<h4 id="更新remote的位置">更新remote的位置</h4>
-</blockquote>
-<pre tabindex="0"><code>$ git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
-</code></pre><ol start="3">
-<li>刪除Github帳號</li>
-</ol>
-<blockquote>
-<p><img src="/blog/github/merge_accounts/images/merge_accounts-6.png" 
-style="width: 70%; height: ;"><br>
-<img src="/blog/github/merge_accounts/images/merge_accounts-7.png" 
-style="width: 50%; height: ;"></p>
-</blockquote>
-<ol start="4">
-<li>把過去commits歸於保留帳號所有</li>
-</ol>
-<blockquote>
-<h4 id="進入保留帳號加入慣用的email用於未來commits使用">進入保留帳號，加入慣用的email，用於未來commits使用</h4>
-</blockquote>
-<h4 id="reference">Reference</h4>
-<p><a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-user-account-settings/merging-multiple-user-accounts" rel="noopener" target="_blank">Merging multiple user accounts</a>
-<br>
-<a href="https://scottmathson.com/blog/2019/02/13/combine-merge-github-user-accounts-keeping-git-commit-history/#account-email-management-on-github--git-commit-history" rel="noopener" target="_blank">Merge Multiple GitHub Accounts &#43; Transfer Commit History</a>
-</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-scss" data-lang="scss"><span style="display:flex;"><span><span style="color:#60a0b0;font-style:italic">/* markdown style */</span>
+</span></span><span style="display:flex;"><span><span style="color:#007020;font-weight:bold">@import</span> <span style="color:#c65d09">url(&#39;https://fonts.googleapis.com/css2?family=Noto+Sans+TC&amp;display=swap&#39;)</span>;
+</span></span><span style="display:flex;"><span><span style="color:#007020;font-weight:bold">@import</span> <span style="color:#c65d09">url(&#39;https://fonts.googleapis.com/css2?family=Open+Sans&amp;display=swap&#39;)</span>;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#0e84b5;font-weight:bold">.content</span> {
+</span></span><span style="display:flex;"><span>  <span style="color:#666">*</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#4070a0">font-family</span><span style="color:#666">:</span> <span style="color:#d55537;font-weight:bold">open</span> sans<span style="color:#666">,</span><span style="color:#007020;font-weight:bold">not</span>o sans tc<span style="color:#666">,</span><span style="color:#d55537;font-weight:bold">sans-serif</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#4070a0">margin-bottom</span><span style="color:#666">:</span> <span style="color:#40a070">20</span><span style="color:#902000">px</span>;
+</span></span><span style="display:flex;"><span>  }
+</span></span><span style="display:flex;"><span>  <span style="color:#0e84b5;font-weight:bold">...</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>  <span style="color:#062873;font-weight:bold">pre</span> <span style="color:#062873;font-weight:bold">code</span> <span style="color:#666">*</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#4070a0">font-size</span><span style="color:#666">:</span> <span style="color:#40a070">1</span><span style="color:#902000">em</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#4070a0">letter-spacing</span><span style="color:#666">:</span> <span style="color:#40a070">0</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#4070a0">font-family</span><span style="color:#666">:</span> Consolas<span style="color:#666">,</span>liberation mono<span style="color:#666">,</span>Courier<span style="color:#666">,</span><span style="color:#d55537;font-weight:bold">monospace</span>;
+</span></span><span style="display:flex;"><span>  }
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>修改後上傳github.io之後，一開始字體還是沒有改變，後來才看到變化<br>
+可能是忘記Clear Cache，大家以後要記得＠＠～</p>
+<h5 id="reference">Reference</h5>
+<p><a href="https://kucw.github.io/">老師的Hugo網誌</a></p>
 
         </div>
 

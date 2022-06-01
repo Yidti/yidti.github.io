@@ -6,7 +6,18 @@
     <description>Recent content on 老皮的煙草</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 16 Apr 2022 00:00:00 +0800</lastBuildDate><atom:link href="https://yidti.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0800</lastBuildDate><atom:link href="https://yidti.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Github - Profile README</title>
+      <link>https://yidti.github.io/blog/github/profile-readme/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0800</pubDate>
+      
+      <guid>https://yidti.github.io/blog/github/profile-readme/</guid>
+      <description>如何在Github展示你的個人簡介 某天瀏覽到別人的github的時候，發現好漂亮唷！
+首頁就顯示個人簡介與作品連結，羨慕！
+實作方式  登入Github 點擊右上角＋選擇New repository 於Repository Name欄位，設置與你的Github的username一樣名稱   Message  於專案設置為Public 勾選Add a README file選項 點擊Create repository  編輯README 可以新增一些GIFs或者Badges，讓頁面更豐富</description>
+    </item>
+    
     <item>
       <title>Python - Bootcamp</title>
       <link>https://yidti.github.io/blog/study/python/</link>
@@ -20,10 +31,10 @@ Become a Full-Stack Web Developer with just ONE course.</description>
     
     <item>
       <title>Web Development - Bootcamp</title>
-      <link>https://yidti.github.io/blog/study/web_bootcamp/</link>
+      <link>https://yidti.github.io/blog/study/web-bootcamp/</link>
       <pubDate>Sat, 12 Feb 2022 00:00:00 +0800</pubDate>
       
-      <guid>https://yidti.github.io/blog/study/web_bootcamp/</guid>
+      <guid>https://yidti.github.io/blog/study/web-bootcamp/</guid>
       <description>大約兩年前於Udemy上購買了此課程
 最近才開始上她的課程，真的是非常不錯！
 Dr. Angela Yu 是一位非常棒的老師，
@@ -33,28 +44,28 @@ Dr. Angela Yu 是一位非常棒的老師，
     
     <item>
       <title>Hugo - External link</title>
-      <link>https://yidti.github.io/blog/hugo/external_link/</link>
+      <link>https://yidti.github.io/blog/hugo/external-link/</link>
       <pubDate>Thu, 09 Dec 2021 00:00:00 +0800</pubDate>
       
-      <guid>https://yidti.github.io/blog/hugo/external_link/</guid>
+      <guid>https://yidti.github.io/blog/hugo/external-link/</guid>
       <description>每篇文章下方參考資訊，其連結原本都是用Markdown語法 [Yidti的網誌](https://yidti.github.io/) 但是他們都不會新開分頁，而直接將本分頁進此此連結   設定開啟新分頁的連結  建立Short code (themes/liva-hugo/layouts/shortcodes)   建立一個新檔案 newtabref.</description>
     </item>
     
     <item>
       <title>Github - Merge Accounts</title>
-      <link>https://yidti.github.io/blog/github/merge_accounts/</link>
+      <link>https://yidti.github.io/blog/github/merge-accounts/</link>
       <pubDate>Tue, 23 Nov 2021 00:00:00 +0800</pubDate>
       
-      <guid>https://yidti.github.io/blog/github/merge_accounts/</guid>
+      <guid>https://yidti.github.io/blog/github/merge-accounts/</guid>
       <description>由於個人學習原因，創了不同Github帳號來寫程式， 切換帳號覺得很麻煩，於是想合併這些Github帳號 &amp;gt;o&amp;lt;  將欲保留的repositories進行轉移   即將移除帳號中設定進行轉移動作 保留帳號信箱確認轉移信件 保留帳號中確認轉移成功  更新remote URLs   查詢remote的位置  $ git remote -v origin git@github.</description>
     </item>
     
     <item>
       <title>Github - Git Push hangs</title>
-      <link>https://yidti.github.io/blog/github/push_hangs/</link>
+      <link>https://yidti.github.io/blog/github/push-hangs/</link>
       <pubDate>Mon, 22 Nov 2021 00:00:00 +0800</pubDate>
       
-      <guid>https://yidti.github.io/blog/github/push_hangs/</guid>
+      <guid>https://yidti.github.io/blog/github/push-hangs/</guid>
       <description>使用Github Desktop 介面化很簡單操作，但問題也一堆唷～ 寫網誌某一天，網誌裡頭的圖片變多了一些
 上傳的時候就遇到這種事情？？？
 由於桌面視窗不像指令視窗這樣可以看到狀態所以頗麻煩＠＠
@@ -73,10 +84,10 @@ Dr. Angela Yu 是一位非常棒的老師，
     
     <item>
       <title>Cryptocurrency - MaiCoin｜Ｍax</title>
-      <link>https://yidti.github.io/blog/cryptocurrency/maicoin_max/</link>
+      <link>https://yidti.github.io/blog/cryptocurrency/maicoin-max/</link>
       <pubDate>Fri, 19 Nov 2021 00:00:00 +0800</pubDate>
       
-      <guid>https://yidti.github.io/blog/cryptocurrency/maicoin_max/</guid>
+      <guid>https://yidti.github.io/blog/cryptocurrency/maicoin-max/</guid>
       <description>今日來介紹 台幣入金＆出金 交易所
 MainCoin| Max
  首先點選推薦碼，輸入信箱地址、密碼、進行註冊   https://max.maicoin.com/signup?r=43841f9f</description>
@@ -93,7 +104,7 @@ MainCoin| Max
 後來發現我在 themes/liva-hugo/layouts/index.md
 尾段好像不小心註解某段程式碼
 解決方案：取消註解就可以了www~~
-&amp;lt;!-- pagination --&amp;gt; &amp;lt;div class=&amp;#34;col-12 mt-5&amp;#34;&amp;gt; {{ template &amp;#34;_internal/pagination.</description>
+&amp;lt;!-- pagination --&amp;gt;  &amp;lt;div class=&amp;#34;col-12 mt-5&amp;#34;&amp;gt;  {{ template &amp;#34;_internal/pagination.</description>
     </item>
     
     <item>
@@ -110,10 +121,10 @@ MainCoin| Max
     
     <item>
       <title>Hugo - 修改Markdown字體</title>
-      <link>https://yidti.github.io/blog/hugo/change_font/</link>
+      <link>https://yidti.github.io/blog/hugo/change-font/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0800</pubDate>
       
-      <guid>https://yidti.github.io/blog/hugo/change_font/</guid>
+      <guid>https://yidti.github.io/blog/hugo/change-font/</guid>
       <description>由於寫網誌的時候都會用markdown的語法把code包裝起來，
 原始的字型可能都不太好看，想改！！！ 至於配色也是在這裡頭改唷 (我已經忘記改了什麼＠＠，下次有改會再補上XD)
 於是乎參考老師網誌的版型(查看原始碼！XD)
@@ -123,10 +134,10 @@ MainCoin| Max
     
     <item>
       <title>Hugo - 放置網誌圖片</title>
-      <link>https://yidti.github.io/blog/hugo/put_image/</link>
+      <link>https://yidti.github.io/blog/hugo/put-image/</link>
       <pubDate>Wed, 03 Nov 2021 00:00:00 +0800</pubDate>
       
-      <guid>https://yidti.github.io/blog/hugo/put_image/</guid>
+      <guid>https://yidti.github.io/blog/hugo/put-image/</guid>
       <description>首先準備一些圖片
  生活照 截圖   將圖片上傳至imgur，並取得圖片連結 https://imgur.com/004s1CB.jpeg
 圖片有點太大，Markdown語法似乎無法調整尺寸
@@ -135,30 +146,30 @@ MainCoin| Max
     
     <item>
       <title>Hugo - 累積訪客次數</title>
-      <link>https://yidti.github.io/blog/hugo/visitor_counter/</link>
+      <link>https://yidti.github.io/blog/hugo/visitor-counter/</link>
       <pubDate>Wed, 03 Nov 2021 00:00:00 +0800</pubDate>
       
-      <guid>https://yidti.github.io/blog/hugo/visitor_counter/</guid>
+      <guid>https://yidti.github.io/blog/hugo/visitor-counter/</guid>
       <description>參考別人網誌 得知開源visitor-badge
 於Hugo主題資料夾下的layouts/single.html進行修改
-&amp;lt;div class=&amp;#34;views&amp;#34;&amp;gt; &amp;lt;span class=&amp;#34;views&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://visitor-badge.glitch.me/badge?page_id={{ .Permalink }}&amp;#34; alt=&amp;#34;Views&amp;#34;/&amp;gt; &amp;lt;/span&amp;gt; &amp;lt;/div&amp;gt; 完成後的圖示 可愛!</description>
+&amp;lt;div class=&amp;#34;views&amp;#34;&amp;gt;  &amp;lt;span class=&amp;#34;views&amp;#34;&amp;gt;  &amp;lt;img src=&amp;#34;https://visitor-badge.</description>
     </item>
     
     <item>
       <title>Hugo - 資料夾結構</title>
-      <link>https://yidti.github.io/blog/hugo/directory_structure/</link>
+      <link>https://yidti.github.io/blog/hugo/directory-structure/</link>
       <pubDate>Sun, 24 Oct 2021 00:00:00 +0800</pubDate>
       
-      <guid>https://yidti.github.io/blog/hugo/directory_structure/</guid>
+      <guid>https://yidti.github.io/blog/hugo/directory-structure/</guid>
       <description>Hugo’s CLI scaffolds a project directory structure and then takes that single directory and uses it as the input to create a complete website.</description>
     </item>
     
     <item>
       <title>Hugo - 學習資源</title>
-      <link>https://yidti.github.io/blog/study/web_hugo/</link>
+      <link>https://yidti.github.io/blog/study/web-hugo/</link>
       <pubDate>Sat, 23 Oct 2021 00:00:00 +0800</pubDate>
       
-      <guid>https://yidti.github.io/blog/study/web_hugo/</guid>
+      <guid>https://yidti.github.io/blog/study/web-hugo/</guid>
       <description>第一次接觸到Hugo是一年前從購買Hahow課程
 古老師上課很有條理，這門課非常平易近人
 像我這樣新手也可以很快吸收一些概念

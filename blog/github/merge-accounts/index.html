@@ -6,7 +6,7 @@
 
   <title>
     
-    Hugo - 累積訪客次數
+    Github - Merge Accounts
     
   </title>
 
@@ -14,9 +14,9 @@
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="想要實現什麼？累積訪客次數">
+  <meta name="description" content="Git學習？合併帳戶">
   <meta name="author" content="Sola">
-  <meta name="generator" content="Hugo 0.88.1" />
+  <meta name="generator" content="Hugo 0.99.1" />
 
   <!-- plugins -->
   
@@ -94,40 +94,80 @@
     <div class="row">
       <div class="col-lg-10 mx-auto">
         
-        <a href="/categories/website"
-          class="text-primary">Website</a>
+        <a href="/categories/tools"
+          class="text-primary">Tools</a>
         
-        <h2>Hugo - 累積訪客次數</h2>
+        <h2>Github - Merge Accounts</h2>
         <div class="mb-3 post-meta">
           <span>By Sola</span>
           
           <span class="border-bottom border-primary px-2 mx-1"></span>
-          <span>03 November 2021</span>
+          <span>23 November 2021</span>
           
         </div>
         
 
       <div class="views">
           <span class="views">
-              <img src="https://visitor-badge.glitch.me/badge?page_id=https%3a%2f%2fyidti.github.io%2fblog%2fhugo%2fvisitor_counter%2f" alt="Views"/>
+              <img src="https://visitor-badge.glitch.me/badge?page_id=https%3a%2f%2fyidti.github.io%2fblog%2fgithub%2fmerge-accounts%2f" alt="Views"/>
           </span>
       </div>
       <br>
 
         <div class="content mb-5">
-          <p>參考別人網誌 得知開源visitor-badge<br>
-於Hugo主題資料夾下的layouts/single.html進行修改</p>
-<p><img src="/blog/hugo/visitor_counter/images/vistorCounter-1.png" alt="visitorCounter"></p>
-<div class="highlight"><pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">&lt;<span style="color:#062873;font-weight:bold">div</span> <span style="color:#4070a0">class</span><span style="color:#666">=</span><span style="color:#4070a0">&#34;views&#34;</span>&gt;
-    &lt;<span style="color:#062873;font-weight:bold">span</span> <span style="color:#4070a0">class</span><span style="color:#666">=</span><span style="color:#4070a0">&#34;views&#34;</span>&gt;
-        &lt;<span style="color:#062873;font-weight:bold">img</span> <span style="color:#4070a0">src</span><span style="color:#666">=</span><span style="color:#4070a0">&#34;https://visitor-badge.glitch.me/badge?page_id={{ .Permalink }}&#34;</span> <span style="color:#4070a0">alt</span><span style="color:#666">=</span><span style="color:#4070a0">&#34;Views&#34;</span>/&gt;
-    &lt;/<span style="color:#062873;font-weight:bold">span</span>&gt;
-&lt;/<span style="color:#062873;font-weight:bold">div</span>&gt;
-</code></pre></div><p>完成後的圖示 可愛!!!<br>
-<img src="/blog/hugo/visitor_counter/images/vistorCounter-2.png" alt="visitorCounter"></p>
-<h5 id="reference">Reference</h5>
-<p><a href="https://ravichaganti.com/blog/adding-visitor-counter-to-statically-generated-web-pages/">Add Visitor Counter</a><br>
-<a href="https://visitor-badge.glitch.me/">vistor-badge</a></p>
+          <h4 id="由於個人學習原因創了不同github帳號來寫程式">由於個人學習原因，創了不同Github帳號來寫程式，</h4>
+<h4 id="切換帳號覺得很麻煩於是想合併這些github帳號-o">切換帳號覺得很麻煩，於是想合併這些Github帳號 &gt;o&lt;</h4>
+<ol>
+<li>將欲保留的repositories進行轉移</li>
+</ol>
+<blockquote>
+<h4 id="即將移除帳號中設定進行轉移動作">即將移除帳號中設定進行轉移動作</h4>
+<p><img src="/blog/github/merge_accounts/images/merge_accounts-1.png" 
+style="width: 80%; height: ;"><br>
+<img src="/blog/github/merge_accounts/images/merge_accounts-2.png" 
+style="width: 80%; height: ;"><br>
+<img src="/blog/github/merge_accounts/images/merge_accounts-3.png" 
+style="width: 50%; height: ;"></p>
+<h4 id="保留帳號信箱確認轉移信件">保留帳號信箱確認轉移信件</h4>
+<img src="/blog/github/merge_accounts/images/merge_accounts-4.png" 
+style="width: 80%; height: ;">
+<h4 id="保留帳號中確認轉移成功">保留帳號中確認轉移成功</h4>
+<img src="/blog/github/merge_accounts/images/merge_accounts-5.png" 
+style="width: 30%; height: ;">
+</blockquote>
+<ol start="2">
+<li>更新remote URLs</li>
+</ol>
+<blockquote>
+<h4 id="查詢remote的位置">查詢remote的位置</h4>
+</blockquote>
+<pre tabindex="0"><code>$ git remote -v
+origin  git@github.com:USERNAME/REPOSITORY.git (fetch)
+origin  git@github.com:USERNAME/REPOSITORY.git (push)
+</code></pre><blockquote>
+<h4 id="更新remote的位置">更新remote的位置</h4>
+</blockquote>
+<pre tabindex="0"><code>$ git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
+</code></pre><ol start="3">
+<li>刪除Github帳號</li>
+</ol>
+<blockquote>
+<p><img src="/blog/github/merge_accounts/images/merge_accounts-6.png" 
+style="width: 70%; height: ;"><br>
+<img src="/blog/github/merge_accounts/images/merge_accounts-7.png" 
+style="width: 50%; height: ;"></p>
+</blockquote>
+<ol start="4">
+<li>把過去commits歸於保留帳號所有</li>
+</ol>
+<blockquote>
+<h4 id="進入保留帳號加入慣用的email用於未來commits使用">進入保留帳號，加入慣用的email，用於未來commits使用</h4>
+</blockquote>
+<h4 id="reference">Reference</h4>
+<p><a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-user-account-settings/merging-multiple-user-accounts" rel="noopener" target="_blank">Merging multiple user accounts</a>
+<br>
+<a href="https://scottmathson.com/blog/2019/02/13/combine-merge-github-user-accounts-keeping-git-commit-history/#account-email-management-on-github--git-commit-history" rel="noopener" target="_blank">Merge Multiple GitHub Accounts &#43; Transfer Commit History</a>
+</p>
 
         </div>
 

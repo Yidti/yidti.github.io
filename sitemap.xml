@@ -3,10 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://yidti.github.io/blog/</loc>
-    <lastmod>2022-04-16T00:00:00+08:00</lastmod>
+    <lastmod>2022-06-01T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://yidti.github.io/categories/</loc>
-    <lastmod>2022-04-16T00:00:00+08:00</lastmod>
+    <lastmod>2022-06-01T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://yidti.github.io/tags/github/</loc>
+    <lastmod>2022-06-01T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://yidti.github.io/blog/github/profile-readme/</loc>
+    <lastmod>2022-06-01T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://yidti.github.io/tags/</loc>
+    <lastmod>2022-06-01T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://yidti.github.io/categories/tools/</loc>
+    <lastmod>2022-06-01T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://yidti.github.io/</loc>
+    <lastmod>2022-06-01T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://yidti.github.io/tags/python/</loc>
     <lastmod>2022-04-16T00:00:00+08:00</lastmod>
@@ -17,34 +32,22 @@
     <loc>https://yidti.github.io/categories/study/</loc>
     <lastmod>2022-04-16T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://yidti.github.io/tags/</loc>
-    <lastmod>2022-04-16T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://yidti.github.io/</loc>
-    <lastmod>2022-04-16T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://yidti.github.io/tags/web-development/</loc>
     <lastmod>2022-02-12T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://yidti.github.io/blog/study/web_bootcamp/</loc>
+    <loc>https://yidti.github.io/blog/study/web-bootcamp/</loc>
     <lastmod>2022-02-12T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://yidti.github.io/tags/github/</loc>
-    <lastmod>2021-12-09T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://yidti.github.io/blog/hugo/external_link/</loc>
+    <loc>https://yidti.github.io/blog/hugo/external-link/</loc>
     <lastmod>2021-12-09T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://yidti.github.io/categories/website/</loc>
     <lastmod>2021-12-09T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://yidti.github.io/blog/github/merge_accounts/</loc>
+    <loc>https://yidti.github.io/blog/github/merge-accounts/</loc>
     <lastmod>2021-11-23T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://yidti.github.io/categories/tools/</loc>
-    <lastmod>2021-11-23T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://yidti.github.io/blog/github/push_hangs/</loc>
+    <loc>https://yidti.github.io/blog/github/push-hangs/</loc>
     <lastmod>2021-11-22T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://yidti.github.io/tags/hugo/</loc>
@@ -56,7 +59,7 @@
     <loc>https://yidti.github.io/tags/cryptocurrency/</loc>
     <lastmod>2021-11-19T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://yidti.github.io/blog/cryptocurrency/maicoin_max/</loc>
+    <loc>https://yidti.github.io/blog/cryptocurrency/maicoin-max/</loc>
     <lastmod>2021-11-19T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://yidti.github.io/tags/exchange/</loc>
@@ -71,19 +74,19 @@
     <loc>https://yidti.github.io/blog/cryptocurrency/introduction/</loc>
     <lastmod>2021-11-14T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://yidti.github.io/blog/hugo/change_font/</loc>
+    <loc>https://yidti.github.io/blog/hugo/change-font/</loc>
     <lastmod>2021-11-05T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://yidti.github.io/blog/hugo/put_image/</loc>
+    <loc>https://yidti.github.io/blog/hugo/put-image/</loc>
     <lastmod>2021-11-03T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://yidti.github.io/blog/hugo/visitor_counter/</loc>
+    <loc>https://yidti.github.io/blog/hugo/visitor-counter/</loc>
     <lastmod>2021-11-03T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://yidti.github.io/blog/hugo/directory_structure/</loc>
+    <loc>https://yidti.github.io/blog/hugo/directory-structure/</loc>
     <lastmod>2021-10-24T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://yidti.github.io/blog/study/web_hugo/</loc>
+    <loc>https://yidti.github.io/blog/study/web-hugo/</loc>
     <lastmod>2021-10-23T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://yidti.github.io/blog/life/quit/</loc>
