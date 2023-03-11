@@ -6,7 +6,16 @@
     <description>Recent content in Categories on 老皮的煙草</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0800</lastBuildDate><atom:link href="https://yidti.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0800</lastBuildDate><atom:link href="https://yidti.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cross-platform</title>
+      <link>https://yidti.github.io/categories/cross-platform/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://yidti.github.io/categories/cross-platform/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Tools</title>
       <link>https://yidti.github.io/categories/tools/</link>
@@ -44,11 +53,29 @@
     </item>
     
     <item>
+      <title>Deep Learning</title>
+      <link>https://yidti.github.io/categories/deep-learning/</link>
+      <pubDate>Sun, 24 Oct 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://yidti.github.io/categories/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Scrap</title>
       <link>https://yidti.github.io/categories/scrap/</link>
       <pubDate>Wed, 20 Oct 2021 22:00:00 +0800</pubDate>
       
       <guid>https://yidti.github.io/categories/scrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Not Categorized</title>
+      <link>https://yidti.github.io/categories/not-categorized/</link>
+      <pubDate>Wed, 23 Sep 2020 21:50:47 +0800</pubDate>
+      
+      <guid>https://yidti.github.io/categories/not-categorized/</guid>
       <description></description>
     </item>
     

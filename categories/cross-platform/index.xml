@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cross-platform on 老皮的煙草</title>
+    <link>https://yidti.github.io/categories/cross-platform/</link>
+    <description>Recent content in cross-platform on 老皮的煙草</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0800</lastBuildDate><atom:link href="https://yidti.github.io/categories/cross-platform/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flutter - macOS install </title>
+      <link>https://yidti.github.io/blog/flutter/install/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0800</pubDate>
+      
+      <guid>https://yidti.github.io/blog/flutter/install/</guid>
+      <description>跨平台開發的首選 目前開發跨平台的首選應該是Flutter吧？
+讓我們來試看看如何來安裝跨平台開發工具Flutter吧
+安裝Flutter 其他平台安裝方式請參考官方網站 https://docs.flutter.dev/get-started/install
+ 滿足系統需求之外，由於筆者電腦是M1，所以需要額外執行以下   sudo softwareupdate --install-rosetta --agree-to-license  下載Flutter     解壓縮檔案並移動到此資料夾放置希望存放的地方</description>
+    </item>
+    
+  </channel>
+</rss>
