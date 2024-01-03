@@ -6,88 +6,56 @@
     <description>Recent content in Hugo on 老皮的煙草</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 20 Nov 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://yidti.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Nov 2021 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://yidti.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo - Google Search Console</title>
       <link>https://yidti.github.io/blog/hugo/gsc/</link>
       <pubDate>Sat, 20 Nov 2021 00:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/blog/hugo/gsc/</guid>
-      <description>如何讓你的網頁能被Google搜尋到? 1. 設定 Google Search Console  進入連結 Google Search Console 點擊 立即開始 輸入網站前置字元 (https://****.</description>
+      <description>如何讓你的網頁能被Google搜尋到? 1. 設定 Google Search Console 進入連結 Google Search Console 點擊 立即開始 輸入網站前置字元 (https://****.</description>
     </item>
-    
     <item>
       <title>Hugo - 切換分頁</title>
       <link>https://yidti.github.io/blog/hugo/pagination/</link>
       <pubDate>Thu, 18 Nov 2021 00:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/blog/hugo/pagination/</guid>
-      <description>寫網誌的時候，主題themes在累積滿六篇文章之後，
-不知道為什麼沒有顯示，前一頁後一頁的分頁設定？
-後來發現我在 themes/liva-hugo/layouts/index.md
-尾段好像不小心註解某段程式碼
-解決方案：取消註解就可以了www~~
-&amp;lt;!-- pagination --&amp;gt;  &amp;lt;div class=&amp;#34;col-12 mt-5&amp;#34;&amp;gt;  {{ template &amp;#34;_internal/pagination.</description>
+      <description>寫網誌的時候，主題themes在累積滿六篇文章之後，&#xA;不知道為什麼沒有顯示，前一頁後一頁的分頁設定？&#xA;後來發現我在 themes/liva-hugo/layouts/index.md&#xA;尾段好像不小心註解某段程式碼&#xA;解決方案：取消註解就可以了www~~&#xA;&amp;lt;!-- pagination --&amp;gt; &amp;lt;div class=&amp;#34;col-12 mt-5&amp;#34;&amp;gt; {{ template &amp;#34;_internal/pagination.</description>
     </item>
-    
     <item>
       <title>Hugo - 修改Markdown字體</title>
       <link>https://yidti.github.io/blog/hugo/change-font/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/blog/hugo/change-font/</guid>
-      <description>由於寫網誌的時候都會用markdown的語法把code包裝起來，
-原始的字型可能都不太好看，想改！！！ 至於配色也是在這裡頭改唷 (我已經忘記改了什麼＠＠，下次有改會再補上XD)
-於是乎參考老師網誌的版型(查看原始碼！XD)
-進行以下修改
- 首先找到這個_main.scss  在Markdown的區域進行修改 (有需要請import字體)  /* markdown style */ @import url(&amp;#39;https://fonts.</description>
+      <description>由於寫網誌的時候都會用markdown的語法把code包裝起來，&#xA;原始的字型可能都不太好看，想改！！！ 至於配色也是在這裡頭改唷 (我已經忘記改了什麼＠＠，下次有改會再補上XD)&#xA;於是乎參考老師網誌的版型(查看原始碼！XD)&#xA;進行以下修改&#xA;首先找到這個_main.scss 在Markdown的區域進行修改 (有需要請import字體) /* markdown style */ @import url(&amp;#39;https://fonts.</description>
     </item>
-    
     <item>
       <title>Hugo - 放置網誌圖片</title>
       <link>https://yidti.github.io/blog/hugo/put-image/</link>
       <pubDate>Wed, 03 Nov 2021 00:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/blog/hugo/put-image/</guid>
-      <description>首先準備一些圖片
- 生活照 截圖   將圖片上傳至imgur，並取得圖片連結 https://imgur.com/004s1CB.jpeg
-圖片有點太大，Markdown語法似乎無法調整尺寸
- 使用Markdown語法 !</description>
+      <description>首先準備一些圖片&#xA;生活照 截圖 將圖片上傳至imgur，並取得圖片連結 https://imgur.com/004s1CB.jpeg&#xA;圖片有點太大，Markdown語法似乎無法調整尺寸&#xA;使用Markdown語法 ![](https://imgur.com/004s1CB.jpeg) 使用Shortcode - resize (細節請參考以下連結) {{&amp;lt; img src=&amp;#34;https://i.</description>
     </item>
-    
     <item>
       <title>Hugo - 累積訪客次數</title>
       <link>https://yidti.github.io/blog/hugo/visitor-counter/</link>
       <pubDate>Wed, 03 Nov 2021 00:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/blog/hugo/visitor-counter/</guid>
-      <description>參考別人網誌 得知開源visitor-badge
-於Hugo主題資料夾下的layouts/single.html進行修改
-&amp;lt;div class=&amp;#34;views&amp;#34;&amp;gt;  &amp;lt;span class=&amp;#34;views&amp;#34;&amp;gt;  &amp;lt;img src=&amp;#34;https://visitor-badge.</description>
+      <description>參考別人網誌 得知開源visitor-badge&#xA;於Hugo主題資料夾下的layouts/single.html進行修改&#xA;&amp;lt;div class=&amp;#34;views&amp;#34;&amp;gt; &amp;lt;span class=&amp;#34;views&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://visitor-badge.glitch.me/badge?page_id={{ .Permalink }}&amp;#34; alt=&amp;#34;Views&amp;#34;/&amp;gt; &amp;lt;/span&amp;gt; &amp;lt;/div&amp;gt; 完成後的圖示 可愛!</description>
     </item>
-    
     <item>
       <title>Hugo - 資料夾結構</title>
       <link>https://yidti.github.io/blog/hugo/directory-structure/</link>
       <pubDate>Sun, 24 Oct 2021 00:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/blog/hugo/directory-structure/</guid>
       <description>Hugo’s CLI scaffolds a project directory structure and then takes that single directory and uses it as the input to create a complete website.</description>
     </item>
-    
     <item>
       <title>Hugo - 學習資源</title>
       <link>https://yidti.github.io/blog/study/web-hugo/</link>
       <pubDate>Sat, 23 Oct 2021 00:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/blog/study/web-hugo/</guid>
-      <description>第一次接觸到Hugo是一年前從購買Hahow課程
-古老師上課很有條理，這門課非常平易近人
-像我這樣新手也可以很快吸收一些概念
-實作起來非常有成就感XDD
-Hahow課程 - Github 免費架站術！輕鬆打造個人品牌 https://hahow.in/courses/5de8fec16117240026540b9c/main
-Hugo官網 https://gohugo.</description>
+      <description>第一次接觸到Hugo是一年前從購買Hahow課程&#xA;古老師上課很有條理，這門課非常平易近人&#xA;像我這樣新手也可以很快吸收一些概念&#xA;實作起來非常有成就感XDD&#xA;Hahow課程 - Github 免費架站術！輕鬆打造個人品牌 https://hahow.in/courses/5de8fec16117240026540b9c/main&#xA;Hugo官網 https://gohugo.</description>
     </item>
-    
   </channel>
 </rss>

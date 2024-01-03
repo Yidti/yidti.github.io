@@ -6,44 +6,28 @@
     <description>Recent content in Study on 老皮的煙草</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 16 Apr 2022 00:00:00 +0800</lastBuildDate><atom:link href="https://yidti.github.io/categories/study/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Apr 2022 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://yidti.github.io/categories/study/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Python - Bootcamp</title>
       <link>https://yidti.github.io/blog/study/python/</link>
       <pubDate>Sat, 16 Apr 2022 00:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/blog/study/python/</guid>
-      <description>上完第一堂課後，對於整體Web開發有了概念與雛形 (大約花了2個多月左右)
- The Complete 2022 Web Development Bootcamp
-Become a Full-Stack Web Developer with just ONE course.</description>
+      <description>上完第一堂課後，對於整體Web開發有了概念與雛形 (大約花了2個多月左右)&#xA;The Complete 2022 Web Development Bootcamp&#xA;Become a Full-Stack Web Developer with just ONE course.</description>
     </item>
-    
     <item>
       <title>Web Development - Bootcamp</title>
       <link>https://yidti.github.io/blog/study/web-bootcamp/</link>
       <pubDate>Sat, 12 Feb 2022 00:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/blog/study/web-bootcamp/</guid>
-      <description>大約兩年前於Udemy上購買了此課程
-最近才開始上她的課程，真的是非常不錯！
-Dr. Angela Yu 是一位非常棒的老師，
-課程豐富之外，不時會鼓勵學習者要Keep going!
- The Complete 2022 Web Development Bootcamp</description>
+      <description>大約兩年前於Udemy上購買了此課程&#xA;最近才開始上她的課程，真的是非常不錯！&#xA;Dr. Angela Yu 是一位非常棒的老師，&#xA;課程豐富之外，不時會鼓勵學習者要Keep going!&#xA;The Complete 2022 Web Development Bootcamp</description>
     </item>
-    
     <item>
       <title>Hugo - 學習資源</title>
       <link>https://yidti.github.io/blog/study/web-hugo/</link>
       <pubDate>Sat, 23 Oct 2021 00:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/blog/study/web-hugo/</guid>
-      <description>第一次接觸到Hugo是一年前從購買Hahow課程
-古老師上課很有條理，這門課非常平易近人
-像我這樣新手也可以很快吸收一些概念
-實作起來非常有成就感XDD
-Hahow課程 - Github 免費架站術！輕鬆打造個人品牌 https://hahow.in/courses/5de8fec16117240026540b9c/main
-Hugo官網 https://gohugo.</description>
+      <description>第一次接觸到Hugo是一年前從購買Hahow課程&#xA;古老師上課很有條理，這門課非常平易近人&#xA;像我這樣新手也可以很快吸收一些概念&#xA;實作起來非常有成就感XDD&#xA;Hahow課程 - Github 免費架站術！輕鬆打造個人品牌 https://hahow.in/courses/5de8fec16117240026540b9c/main&#xA;Hugo官網 https://gohugo.</description>
     </item>
-    
   </channel>
 </rss>

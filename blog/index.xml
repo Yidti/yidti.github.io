@@ -6,213 +6,126 @@
     <description>Recent content in Blogs on 老皮的煙草</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0800</lastBuildDate><atom:link href="https://yidti.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://yidti.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flutter - macOS install </title>
       <link>https://yidti.github.io/blog/flutter/install/</link>
       <pubDate>Sat, 11 Mar 2023 00:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/blog/flutter/install/</guid>
-      <description>跨平台開發的首選 目前開發跨平台的首選應該是Flutter吧？
-讓我們來試看看如何來安裝跨平台開發工具Flutter吧
-安裝Flutter 其他平台安裝方式請參考官方網站 https://docs.flutter.dev/get-started/install
- 滿足系統需求之外，由於筆者電腦是M1，所以需要額外執行以下   sudo softwareupdate --install-rosetta --agree-to-license  下載Flutter     解壓縮檔案並移動到此資料夾放置希望存放的地方</description>
+      <description>跨平台開發的首選 目前開發跨平台的首選應該是Flutter吧？&#xA;讓我們來試看看如何來安裝跨平台開發工具Flutter吧&#xA;安裝Flutter 其他平台安裝方式請參考官方網站 https://docs.flutter.dev/get-started/install&#xA;滿足系統需求之外，由於筆者電腦是M1，所以需要額外執行以下 sudo softwareupdate --install-rosetta --agree-to-license 下載Flutter 解壓縮檔案並移動到此資料夾放置希望存放的地方</description>
     </item>
-    
     <item>
       <title>Github - Profile README</title>
       <link>https://yidti.github.io/blog/github/profile-readme/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/blog/github/profile-readme/</guid>
-      <description>如何在Github展示你的個人簡介 某天瀏覽到別人的github的時候，發現好漂亮唷！
-首頁就顯示個人簡介與作品連結，羨慕！
-實作方式  登入Github 點擊右上角＋選擇New repository 於Repository Name欄位，設置與你的Github的username一樣名稱   Message  於專案設置為Public 勾選Add a README file選項 點擊Create repository  編輯README 可以新增一些GIFs或者Badges，讓頁面更豐富</description>
+      <description>如何在Github展示你的個人簡介 某天瀏覽到別人的github的時候，發現好漂亮唷！&#xA;首頁就顯示個人簡介與作品連結，羨慕！&#xA;實作方式 登入Github 點擊右上角＋選擇New repository 於Repository Name欄位，設置與你的Github的username一樣名稱 Message 於專案設置為Public 勾選Add a README file選項 點擊Create repository 編輯README 可以新增一些GIFs或者Badges，讓頁面更豐富</description>
     </item>
-    
     <item>
       <title>Python - Bootcamp</title>
       <link>https://yidti.github.io/blog/study/python/</link>
       <pubDate>Sat, 16 Apr 2022 00:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/blog/study/python/</guid>
-      <description>上完第一堂課後，對於整體Web開發有了概念與雛形 (大約花了2個多月左右)
- The Complete 2022 Web Development Bootcamp
-Become a Full-Stack Web Developer with just ONE course.</description>
+      <description>上完第一堂課後，對於整體Web開發有了概念與雛形 (大約花了2個多月左右)&#xA;The Complete 2022 Web Development Bootcamp&#xA;Become a Full-Stack Web Developer with just ONE course.</description>
     </item>
-    
     <item>
       <title>Web Development - Bootcamp</title>
       <link>https://yidti.github.io/blog/study/web-bootcamp/</link>
       <pubDate>Sat, 12 Feb 2022 00:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/blog/study/web-bootcamp/</guid>
-      <description>大約兩年前於Udemy上購買了此課程
-最近才開始上她的課程，真的是非常不錯！
-Dr. Angela Yu 是一位非常棒的老師，
-課程豐富之外，不時會鼓勵學習者要Keep going!
- The Complete 2022 Web Development Bootcamp</description>
+      <description>大約兩年前於Udemy上購買了此課程&#xA;最近才開始上她的課程，真的是非常不錯！&#xA;Dr. Angela Yu 是一位非常棒的老師，&#xA;課程豐富之外，不時會鼓勵學習者要Keep going!&#xA;The Complete 2022 Web Development Bootcamp</description>
     </item>
-    
     <item>
       <title>Hugo - External link</title>
       <link>https://yidti.github.io/blog/hugo/external-link/</link>
       <pubDate>Thu, 09 Dec 2021 00:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/blog/hugo/external-link/</guid>
-      <description>每篇文章下方參考資訊，其連結原本都是用Markdown語法 [Yidti的網誌](https://yidti.github.io/) 但是他們都不會新開分頁，而直接將本分頁進此此連結   設定開啟新分頁的連結  建立Short code (themes/liva-hugo/layouts/shortcodes)   建立一個新檔案 newtabref.</description>
+      <description>每篇文章下方參考資訊，其連結原本都是用Markdown語法 [Yidti的網誌](https://yidti.github.io/) 但是他們都不會新開分頁，而直接將本分頁進此此連結 設定開啟新分頁的連結 建立Short code (themes/liva-hugo/layouts/shortcodes) 建立一個新檔案 newtabref.html，輸入以下內容 &amp;lt;a href=&amp;#34;{{ .</description>
     </item>
-    
     <item>
       <title>Github - Merge Accounts</title>
       <link>https://yidti.github.io/blog/github/merge-accounts/</link>
       <pubDate>Tue, 23 Nov 2021 00:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/blog/github/merge-accounts/</guid>
-      <description>由於個人學習原因，創了不同Github帳號來寫程式， 切換帳號覺得很麻煩，於是想合併這些Github帳號 &amp;gt;o&amp;lt;  將欲保留的repositories進行轉移   即將移除帳號中設定進行轉移動作 保留帳號信箱確認轉移信件 保留帳號中確認轉移成功  更新remote URLs   查詢remote的位置  $ git remote -v origin git@github.</description>
+      <description>由於個人學習原因，創了不同Github帳號來寫程式， 切換帳號覺得很麻煩，於是想合併這些Github帳號 &amp;gt;o&amp;lt; 將欲保留的repositories進行轉移 即將移除帳號中設定進行轉移動作 保留帳號信箱確認轉移信件 保留帳號中確認轉移成功 更新remote URLs 查詢remote的位置 $ git remote -v&#xD;origin git@github.</description>
     </item>
-    
     <item>
       <title>Github - Git Push hangs</title>
       <link>https://yidti.github.io/blog/github/push-hangs/</link>
       <pubDate>Mon, 22 Nov 2021 00:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/blog/github/push-hangs/</guid>
-      <description>使用Github Desktop 介面化很簡單操作，但問題也一堆唷～ 寫網誌某一天，網誌裡頭的圖片變多了一些
-上傳的時候就遇到這種事情？？？
-由於桌面視窗不像指令視窗這樣可以看到狀態所以頗麻煩＠＠
-推斷主因是：上傳至Github的圖片變多變大了，於是就去Stack Overflow瞜～
-  由於去年購入Apple的Macbook M1之後，愛上它了~ 還在學習操作macOS， 所以網誌都是用macOS唷，windows使用者就請多包涵 (應該大同小異) 1.</description>
+      <description>使用Github Desktop 介面化很簡單操作，但問題也一堆唷～ 寫網誌某一天，網誌裡頭的圖片變多了一些&#xA;上傳的時候就遇到這種事情？？？&#xA;由於桌面視窗不像指令視窗這樣可以看到狀態所以頗麻煩＠＠&#xA;推斷主因是：上傳至Github的圖片變多變大了，於是就去Stack Overflow瞜～&#xA;由於去年購入Apple的Macbook M1之後，愛上它了~ 還在學習操作macOS，&#xD;所以網誌都是用macOS唷，windows使用者就請多包涵 (應該大同小異) 1.</description>
     </item>
-    
     <item>
       <title>Hugo - Google Search Console</title>
       <link>https://yidti.github.io/blog/hugo/gsc/</link>
       <pubDate>Sat, 20 Nov 2021 00:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/blog/hugo/gsc/</guid>
-      <description>如何讓你的網頁能被Google搜尋到? 1. 設定 Google Search Console  進入連結 Google Search Console 點擊 立即開始 輸入網站前置字元 (https://****.</description>
+      <description>如何讓你的網頁能被Google搜尋到? 1. 設定 Google Search Console 進入連結 Google Search Console 點擊 立即開始 輸入網站前置字元 (https://****.</description>
     </item>
-    
     <item>
       <title>Cryptocurrency - MaiCoin｜Ｍax</title>
       <link>https://yidti.github.io/blog/cryptocurrency/maicoin-max/</link>
       <pubDate>Fri, 19 Nov 2021 00:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/blog/cryptocurrency/maicoin-max/</guid>
-      <description>今日來介紹 台幣入金＆出金 交易所
-MainCoin| Max
- 首先點選推薦碼，輸入信箱地址、密碼、進行註冊   https://max.maicoin.com/signup?r=43841f9f</description>
+      <description>今日來介紹 台幣入金＆出金 交易所&#xA;MainCoin| Max&#xA;首先點選推薦碼，輸入信箱地址、密碼、進行註冊 https://max.maicoin.com/signup?r=43841f9f&#xA;密碼必須包含 至少8個字符、大寫英文字母、小寫英文字母、數字 點選法條與隱私聲明後，點擊創建帳戶(Create Account) 進行進行帳號設定之LV.</description>
     </item>
-    
     <item>
       <title>Hugo - 切換分頁</title>
       <link>https://yidti.github.io/blog/hugo/pagination/</link>
       <pubDate>Thu, 18 Nov 2021 00:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/blog/hugo/pagination/</guid>
-      <description>寫網誌的時候，主題themes在累積滿六篇文章之後，
-不知道為什麼沒有顯示，前一頁後一頁的分頁設定？
-後來發現我在 themes/liva-hugo/layouts/index.md
-尾段好像不小心註解某段程式碼
-解決方案：取消註解就可以了www~~
-&amp;lt;!-- pagination --&amp;gt;  &amp;lt;div class=&amp;#34;col-12 mt-5&amp;#34;&amp;gt;  {{ template &amp;#34;_internal/pagination.</description>
+      <description>寫網誌的時候，主題themes在累積滿六篇文章之後，&#xA;不知道為什麼沒有顯示，前一頁後一頁的分頁設定？&#xA;後來發現我在 themes/liva-hugo/layouts/index.md&#xA;尾段好像不小心註解某段程式碼&#xA;解決方案：取消註解就可以了www~~&#xA;&amp;lt;!-- pagination --&amp;gt; &amp;lt;div class=&amp;#34;col-12 mt-5&amp;#34;&amp;gt; {{ template &amp;#34;_internal/pagination.</description>
     </item>
-    
     <item>
       <title>Cryptocurrency - 學習加密貨幣</title>
       <link>https://yidti.github.io/blog/cryptocurrency/introduction/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/blog/cryptocurrency/introduction/</guid>
-      <description>接觸新領域，加密貨幣蠻有趣的！
-2021年末才開始接觸，算晚嗎？ 投資始終不嫌晚，不要當韭菜各位加油！
-即將要進場的觀眾們給各位忠告：
- 新領域慎防詐騙 交易所的資安性 交易所的倒閉風險 投資各幣別風險評估 未知領域知識攝取 進行資產分配 開心過生活！！！   推薦線上課程：</description>
+      <description>接觸新領域，加密貨幣蠻有趣的！&#xA;2021年末才開始接觸，算晚嗎？ 投資始終不嫌晚，不要當韭菜各位加油！&#xA;即將要進場的觀眾們給各位忠告：&#xA;新領域慎防詐騙 交易所的資安性 交易所的倒閉風險 投資各幣別風險評估 未知領域知識攝取 進行資產分配 開心過生活！！！ 推薦線上課程：</description>
     </item>
-    
     <item>
       <title>Hugo - 修改Markdown字體</title>
       <link>https://yidti.github.io/blog/hugo/change-font/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/blog/hugo/change-font/</guid>
-      <description>由於寫網誌的時候都會用markdown的語法把code包裝起來，
-原始的字型可能都不太好看，想改！！！ 至於配色也是在這裡頭改唷 (我已經忘記改了什麼＠＠，下次有改會再補上XD)
-於是乎參考老師網誌的版型(查看原始碼！XD)
-進行以下修改
- 首先找到這個_main.scss  在Markdown的區域進行修改 (有需要請import字體)  /* markdown style */ @import url(&amp;#39;https://fonts.</description>
+      <description>由於寫網誌的時候都會用markdown的語法把code包裝起來，&#xA;原始的字型可能都不太好看，想改！！！ 至於配色也是在這裡頭改唷 (我已經忘記改了什麼＠＠，下次有改會再補上XD)&#xA;於是乎參考老師網誌的版型(查看原始碼！XD)&#xA;進行以下修改&#xA;首先找到這個_main.scss 在Markdown的區域進行修改 (有需要請import字體) /* markdown style */ @import url(&amp;#39;https://fonts.</description>
     </item>
-    
     <item>
       <title>Hugo - 放置網誌圖片</title>
       <link>https://yidti.github.io/blog/hugo/put-image/</link>
       <pubDate>Wed, 03 Nov 2021 00:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/blog/hugo/put-image/</guid>
-      <description>首先準備一些圖片
- 生活照 截圖   將圖片上傳至imgur，並取得圖片連結 https://imgur.com/004s1CB.jpeg
-圖片有點太大，Markdown語法似乎無法調整尺寸
- 使用Markdown語法 !</description>
+      <description>首先準備一些圖片&#xA;生活照 截圖 將圖片上傳至imgur，並取得圖片連結 https://imgur.com/004s1CB.jpeg&#xA;圖片有點太大，Markdown語法似乎無法調整尺寸&#xA;使用Markdown語法 ![](https://imgur.com/004s1CB.jpeg) 使用Shortcode - resize (細節請參考以下連結) {{&amp;lt; img src=&amp;#34;https://i.</description>
     </item>
-    
     <item>
       <title>Hugo - 累積訪客次數</title>
       <link>https://yidti.github.io/blog/hugo/visitor-counter/</link>
       <pubDate>Wed, 03 Nov 2021 00:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/blog/hugo/visitor-counter/</guid>
-      <description>參考別人網誌 得知開源visitor-badge
-於Hugo主題資料夾下的layouts/single.html進行修改
-&amp;lt;div class=&amp;#34;views&amp;#34;&amp;gt;  &amp;lt;span class=&amp;#34;views&amp;#34;&amp;gt;  &amp;lt;img src=&amp;#34;https://visitor-badge.</description>
+      <description>參考別人網誌 得知開源visitor-badge&#xA;於Hugo主題資料夾下的layouts/single.html進行修改&#xA;&amp;lt;div class=&amp;#34;views&amp;#34;&amp;gt; &amp;lt;span class=&amp;#34;views&amp;#34;&amp;gt; &amp;lt;img src=&amp;#34;https://visitor-badge.glitch.me/badge?page_id={{ .Permalink }}&amp;#34; alt=&amp;#34;Views&amp;#34;/&amp;gt; &amp;lt;/span&amp;gt; &amp;lt;/div&amp;gt; 完成後的圖示 可愛!</description>
     </item>
-    
-    <item>
-      <title>AI - 神經網路</title>
-      <link>https://yidti.github.io/blog/deep-learning/%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF/</link>
-      <pubDate>Sun, 24 Oct 2021 00:00:00 +0800</pubDate>
-      
-      <guid>https://yidti.github.io/blog/deep-learning/%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Hugo - 資料夾結構</title>
       <link>https://yidti.github.io/blog/hugo/directory-structure/</link>
       <pubDate>Sun, 24 Oct 2021 00:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/blog/hugo/directory-structure/</guid>
       <description>Hugo’s CLI scaffolds a project directory structure and then takes that single directory and uses it as the input to create a complete website.</description>
     </item>
-    
     <item>
       <title>Hugo - 學習資源</title>
       <link>https://yidti.github.io/blog/study/web-hugo/</link>
       <pubDate>Sat, 23 Oct 2021 00:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/blog/study/web-hugo/</guid>
-      <description>第一次接觸到Hugo是一年前從購買Hahow課程
-古老師上課很有條理，這門課非常平易近人
-像我這樣新手也可以很快吸收一些概念
-實作起來非常有成就感XDD
-Hahow課程 - Github 免費架站術！輕鬆打造個人品牌 https://hahow.in/courses/5de8fec16117240026540b9c/main
-Hugo官網 https://gohugo.</description>
+      <description>第一次接觸到Hugo是一年前從購買Hahow課程&#xA;古老師上課很有條理，這門課非常平易近人&#xA;像我這樣新手也可以很快吸收一些概念&#xA;實作起來非常有成就感XDD&#xA;Hahow課程 - Github 免費架站術！輕鬆打造個人品牌 https://hahow.in/courses/5de8fec16117240026540b9c/main&#xA;Hugo官網 https://gohugo.</description>
     </item>
-    
     <item>
       <title>38歲年末</title>
       <link>https://yidti.github.io/blog/life/quit/</link>
       <pubDate>Wed, 20 Oct 2021 22:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/blog/life/quit/</guid>
-      <description>裸辭是對於現況的某種程度不滿
-檢討自己與環境需要進行改變
-寫寫日誌幫忙整理一些思緒
-年紀大了難免更看能清楚事物本質
-進而取捨，丟掉一些不必要的煩惱
-純粹地過生活真的是一件幸福的事
- 技術文章 人生體驗 寵物日常 旅遊雜記  </description>
+      <description>裸辭是對於現況的某種程度不滿&#xA;檢討自己與環境需要進行改變&#xA;寫寫日誌幫忙整理一些思緒&#xA;年紀大了難免更看能清楚事物本質&#xA;進而取捨，丟掉一些不必要的煩惱&#xA;純粹地過生活真的是一件幸福的事&#xA;技術文章 人生體驗 寵物日常 旅遊雜記 </description>
     </item>
-    
   </channel>
 </rss>

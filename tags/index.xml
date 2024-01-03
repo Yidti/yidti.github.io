@@ -6,105 +6,70 @@
     <description>Recent content in Tags on 老皮的煙草</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0800</lastBuildDate><atom:link href="https://yidti.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://yidti.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flutter</title>
       <link>https://yidti.github.io/tags/flutter/</link>
       <pubDate>Sat, 11 Mar 2023 00:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/tags/flutter/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Github</title>
       <link>https://yidti.github.io/tags/github/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/tags/github/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Python</title>
       <link>https://yidti.github.io/tags/python/</link>
       <pubDate>Sat, 16 Apr 2022 00:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/tags/python/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Web Development</title>
       <link>https://yidti.github.io/tags/web-development/</link>
       <pubDate>Sat, 12 Feb 2022 00:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/tags/web-development/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Hugo</title>
       <link>https://yidti.github.io/tags/hugo/</link>
       <pubDate>Sat, 20 Nov 2021 00:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/tags/hugo/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>cryptocurrency</title>
       <link>https://yidti.github.io/tags/cryptocurrency/</link>
       <pubDate>Fri, 19 Nov 2021 00:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/tags/cryptocurrency/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Exchange</title>
       <link>https://yidti.github.io/tags/exchange/</link>
       <pubDate>Fri, 19 Nov 2021 00:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/tags/exchange/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>https://yidti.github.io/tags/deep-learning/</link>
-      <pubDate>Sun, 24 Oct 2021 00:00:00 +0800</pubDate>
-      
-      <guid>https://yidti.github.io/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Life</title>
       <link>https://yidti.github.io/tags/life/</link>
       <pubDate>Wed, 20 Oct 2021 22:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/tags/life/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Routine</title>
       <link>https://yidti.github.io/tags/routine/</link>
       <pubDate>Wed, 20 Oct 2021 22:00:00 +0800</pubDate>
-      
       <guid>https://yidti.github.io/tags/routine/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>New</title>
-      <link>https://yidti.github.io/tags/new/</link>
-      <pubDate>Wed, 23 Sep 2020 21:50:47 +0800</pubDate>
-      
-      <guid>https://yidti.github.io/tags/new/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
